@@ -1,0 +1,1103 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+<title>starkakrats</title>
+<link>https://starkakrats.tiddlyhost.com/</link>
+<description></description>
+<language>en</language>
+<copyright>Copyright 2023 YourName</copyright>
+<pubDate>Sat, 23 Dec 2023 04:22:11 GMT</pubDate>
+<lastBuildDate>Sat, 23 Dec 2023 04:22:11 GMT</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>TiddlyWiki 2.9.4</generator>
+<item>
+<title>About</title>
+<description>Among all the blog systems, I choose tiddlywiki classic because it is wysiwyg, extensible and portable. Modern flat design blog systems (including tw5) are similar in appearance and fixed in layout, a strength in branded and marketed web but shortage in personal cyber space. Compare &lt;a class=&quot;externalLink&quot; href=&quot;https://www.cameronsworld.net/&quot; title=&quot;External link to https://www.cameronsworld.net/&quot; target=&quot;_blank&quot;&gt;https://www.cameronsworld.net/&lt;/a&gt;  with hexo blog, you will be amazed at the abundance of 80s web desgin.</description>
+<category>Content</category>
+<link>https://starkakrats.tiddlyhost.com/#About</link>
+<pubDate>Sat, 23 Dec 2023 04:19:00 GMT</pubDate>
+
+</item>
+<item>
+<title>Home</title>
+<description>Hello, I am starkakrats. I am interested in math and computers.&lt;br&gt;&lt;hr&gt;&lt;h1&gt;Last content updates&lt;/h1&gt;&lt;table class=&quot;twtable&quot;&gt;&lt;thead&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;th&gt;Last 5 tiddlers created&lt;/th&gt;&lt;th&gt;Last 5 tiddlers modified&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;ul&gt;&lt;li class=&quot;listTitle&quot;&gt;23 December 2023&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkExisting&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#%5B%5BTest%20tiddler%5D%5D&quot; title=&quot;Test tiddler - YourName, 2023/12/23 09:43:00&quot; refresh=&quot;link&quot; tiddlylink=&quot;Test tiddler&quot;&gt;Test tiddler&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li class=&quot;listTitle&quot;&gt;22 December 2023&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkExisting&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#About&quot; title=&quot;About - YourName, 2023/12/23 12:19:00&quot; refresh=&quot;link&quot; tiddlylink=&quot;About&quot;&gt;About&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkExisting&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#Home&quot; title=&quot;Home - YourName, 2023/12/23 11:36:00&quot; refresh=&quot;link&quot; tiddlylink=&quot;Home&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;td&gt;&lt;ul&gt;&lt;li class=&quot;listTitle&quot;&gt;23 December 2023&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkExisting&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#About&quot; title=&quot;About - YourName, 2023/12/23 12:19:00&quot; refresh=&quot;link&quot; tiddlylink=&quot;About&quot;&gt;About&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkExisting&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#Home&quot; title=&quot;Home - YourName, 2023/12/23 11:36:00&quot; refresh=&quot;link&quot; tiddlylink=&quot;Home&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;listLink&quot;&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkExisting&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#%5B%5BTest%20tiddler%5D%5D&quot; title=&quot;Test tiddler - YourName, 2023/12/23 09:43:00&quot; refresh=&quot;link&quot; tiddlylink=&quot;Test tiddler&quot;&gt;Test tiddler&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; See more in &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#LastUpdates&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#LastUpdates&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;LastUpdates&quot;&gt;Last Updates&lt;/a&gt;&lt;br&gt;&lt;hr&gt;&lt;h1&gt;Tagcloud&lt;/h1&gt;&lt;div class=&quot;tagCloud&quot;&gt; &lt;a class=&quot;tagCloudtag tagCloud1&quot; href=&quot;javascript:;&quot; title=&quot;1 tiddlers tagged with 'TODO'&quot; tag=&quot;TODO&quot;&gt;TODO&lt;/a&gt; &lt;a class=&quot;tagCloudtag tagCloud1&quot; href=&quot;javascript:;&quot; title=&quot;1 tiddlers tagged with 'Tag'&quot; tag=&quot;Tag&quot;&gt;Tag&lt;/a&gt;&lt;/div&gt;</description>
+<category>Content</category>
+<link>https://starkakrats.tiddlyhost.com/#Home</link>
+<pubDate>Sat, 23 Dec 2023 03:36:00 GMT</pubDate>
+
+</item>
+<item>
+<title>Test tiddler</title>
+<description>Test tiddler</description>
+<category>Content</category>
+<link>https://starkakrats.tiddlyhost.com/#%5B%5BTest%20tiddler%5D%5D</link>
+<pubDate>Sat, 23 Dec 2023 01:43:00 GMT</pubDate>
+
+</item>
+<item>
+<title>SiteUrl</title>
+<description>&lt;a class=&quot;externalLink&quot; href=&quot;https://starkakrats.tiddlyhost.com/&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/&quot; target=&quot;_blank&quot;&gt;https://starkakrats.tiddlyhost.com/&lt;/a&gt;</description>
+<link>https://starkakrats.tiddlyhost.com/#SiteUrl</link>
+<pubDate>Fri, 22 Dec 2023 13:56:00 GMT</pubDate>
+
+</item>
+<item>
+<title>MainMenu</title>
+<description>&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#Home&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#Home&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;Home&quot;&gt;Home&lt;/a&gt; &lt;br&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#CS&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#CS&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;CS&quot;&gt;CS&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#Math&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#Math&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;Math&quot;&gt;Math&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#Science&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#Science&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;Science&quot;&gt;Science&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#Miscellaneous&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#Miscellaneous&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;Miscellaneous&quot;&gt;Miscellaneous&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#%5B%5BSocial%20Account%5D%5D&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#%5B%5BSocial%20Account%5D%5D&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;Social Account&quot;&gt;Social Account&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#About&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#About&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;About&quot;&gt;About&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#RSS&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#RSS&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;RSS&quot;&gt;RSS&lt;/a&gt;&lt;br&gt;&lt;hr&gt;&lt;u&gt;&lt;strong&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#LastUpdates&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#LastUpdates&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;LastUpdates&quot;&gt;Last Updates&lt;/a&gt;&lt;/strong&gt;&lt;/u&gt;&lt;br&gt;&lt;hr&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#AdministrationPage&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#AdministrationPage&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;AdministrationPage&quot;&gt;Administration&lt;/a&gt;&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkEnableTabsBar&quot; type=&quot;checkbox&quot;&gt; Tabbed navigation&lt;br&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#DisplayOptions&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#DisplayOptions&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;DisplayOptions&quot;&gt;DisplayOptions&lt;/a&gt;&lt;br&gt;&lt;sup&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#TiddlyWiki&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#TiddlyWiki&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;TiddlyWiki&quot;&gt;TiddlyWiki&lt;/a&gt; &lt;br&gt;&lt;span&gt;2.9.4&lt;/span&gt;&lt;br&gt;Adapted from &lt;a class=&quot;externalLink&quot; href=&quot;https://acarvalho.tiddlyhost.com&quot; title=&quot;External link to https://acarvalho.tiddlyhost.com&quot; target=&quot;_blank&quot;&gt;acarvalho.tiddlyhost.com&lt;/a&gt;&lt;br&gt;&lt;/sup&gt;&lt;br&gt;&lt;span class=&quot;unsavedChanges&quot; mode=&quot;list&quot; sep=&quot;&lt;br&gt;&quot; label=&quot;&lt;br&gt;&quot; tip=&quot;view a list of unsaved tiddler changes&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;hr&gt;&lt;span&gt;
+&lt;!-- hitwebcounter Code START --&gt;
+&lt;a href=&quot;https://www.hitwebcounter.com&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://hitwebcounter.com/counter/counter.php?page=10414182&amp;amp;style=0001&amp;amp;nbdigits=5&amp;amp;type=page&amp;amp;initCount=0&quot; title=&quot;Counter Widget&quot; alt=&quot;Visit counter For Websites&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
+         
+&lt;a href=&quot;https://info.flagcounter.com/8Gc3&quot;&gt;&lt;img src=&quot;https://s11.flagcounter.com/count2/8Gc3/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/&quot; alt=&quot;Flag Counter&quot; border=&quot;0&quot;&gt;&lt;/a&gt;
+&lt;/span&gt;&lt;br&gt;&lt;hr&gt;</description>
+<link>https://starkakrats.tiddlyhost.com/#MainMenu</link>
+<pubDate>Fri, 22 Dec 2023 13:51:00 GMT</pubDate>
+
+</item>
+<item>
+<title>UploadLog</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;th align=&quot;center&quot;&gt;date&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;user&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;location&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;storeUrl&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;uploadDir&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;toFilename&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;backupdir&lt;/th&gt;&lt;th align=&quot;center&quot;&gt;origin&lt;/th&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:16:50&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;https://starkakrats.tiddlyhost.com/&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;.&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; https://starkakrats.tiddlyhost.com/starkakrats-retro.html&quot; title=&quot;External link to  https://starkakrats.tiddlyhost.com/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;failed&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:17:25&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;https://starkakrats.tiddlyhost.com/&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;.&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; https://starkakrats.tiddlyhost.com/starkakrats-retro.html&quot; title=&quot;External link to  https://starkakrats.tiddlyhost.com/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;failed&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:18:54&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;https://starkakrats.tiddlyhost.com/&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;https://starkakrats.tiddlyhost.com/&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/&quot; target=&quot;_blank&quot;&gt;https://starkakrats.tiddlyhost.com/&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; https://starkakrats.tiddlyhost.com/https://starkakrats.tiddlyhost.com//starkakrats-retro.html&quot; title=&quot;External link to  https://starkakrats.tiddlyhost.com/https://starkakrats.tiddlyhost.com//starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;failed&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:19:40&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/.&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/.&quot; target=&quot;_blank&quot;&gt;.&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;https://starkakrats.tiddlyhost.com/&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/&quot; target=&quot;_blank&quot;&gt;https://starkakrats.tiddlyhost.com/&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/https://starkakrats.tiddlyhost.com//starkakrats-retro.html&quot; title=&quot;External link to  file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/https://starkakrats.tiddlyhost.com//starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;failed&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:19:56&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;https://starkakrats.tiddlyhost.com/&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;.&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; https://starkakrats.tiddlyhost.com/starkakrats-retro.html&quot; title=&quot;External link to  https://starkakrats.tiddlyhost.com/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;failed&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:23:55&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/tiddlyhost.com/&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/tiddlyhost.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;.&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/tiddlyhost.com/starkakrats-retro.html&quot; title=&quot;External link to  file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/tiddlyhost.com/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:24:36&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;.&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to  file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;failed&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:24:48&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;.&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to  file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;failed&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:25:01&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/store&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/store&quot; target=&quot;_blank&quot;&gt;store&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;.&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to  file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;22/12/2023 21:25:16&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#YourName&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#YourName&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;YourName&quot;&gt;YourName&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;.&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot; file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; title=&quot;External link to  file:///home/stark/%E6%96%87%E6%A1%A3/math-owen/blog/starkakrats-retro.html&quot; target=&quot;_blank&quot;&gt;starkakrats-retro.html &lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot;&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;failed&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+<link>https://starkakrats.tiddlyhost.com/#UploadLog</link>
+<pubDate>Fri, 22 Dec 2023 13:25:00 GMT</pubDate>
+
+</item>
+<item>
+<title>Social Account</title>
+<description>&lt;span&gt;
+&lt;iframe src=&quot;https://mastodon.social/@starkakrats&quot; class=&quot;mastodon-embed&quot; border:=&quot;&quot; 0&quot;=&quot;&quot; width=&quot;400&quot; height=&quot;400&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;script src=&quot;https://mastodon.social/embed.js&quot; async=&quot;async&quot;&gt;&lt;/script&gt;
+&lt;/span&gt;</description>
+<link>https://starkakrats.tiddlyhost.com/#%5B%5BSocial%20Account%5D%5D</link>
+<pubDate>Fri, 22 Dec 2023 11:08:00 GMT</pubDate>
+
+</item>
+<item>
+<title>SiteTitle</title>
+<description>starkakrats</description>
+<link>https://starkakrats.tiddlyhost.com/#SiteTitle</link>
+<pubDate>Fri, 22 Dec 2023 11:03:00 GMT</pubDate>
+
+</item>
+<item>
+<title>SiteSubtitle</title>
+<description></description>
+<link>https://starkakrats.tiddlyhost.com/#SiteSubtitle</link>
+<pubDate>Fri, 22 Dec 2023 11:03:00 GMT</pubDate>
+
+</item>
+<item>
+<title>DefaultTiddlers</title>
+<description>&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#Home&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#Home&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;Home&quot;&gt;Home&lt;/a&gt;</description>
+<link>https://starkakrats.tiddlyhost.com/#DefaultTiddlers</link>
+<pubDate>Fri, 22 Dec 2023 11:03:00 GMT</pubDate>
+
+</item>
+<item>
+<title>ThostUploadPlugin</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;ThostUploadPlugin&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;Support saving to Tiddlyhost.com&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Version:&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;1.0.0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;March 06, 2021&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Source:&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;&lt;a class=&quot;externalLink&quot; href=&quot;https://github.com/simonbaird/tiddlyhost/tree/main/rails/tw_content/plugins&quot; title=&quot;External link to https://github.com/simonbaird/tiddlyhost/tree/main/rails/tw_content/plugins&quot; target=&quot;_blank&quot;&gt;https://github.com/simonbaird/tiddlyhost/tree/main/rails/tw_content/plugins&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;Author:&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;BidiX, Simon Baird&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;BSD open source license&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td align=&quot;left&quot;&gt;&lt;strong&gt;CoreVersion:&lt;/strong&gt;&lt;/td&gt;&lt;td align=&quot;left&quot;&gt;2.9.2&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;pre&gt;version.extensions.ThostUploadPlugin = {
+  major: 1, minor: 0, revision: 0,
+  date: new Date(&quot;Mar 06, 2021&quot;),
+  source: 'https://github.com/simonbaird/tiddlyhost/rails/tw_content/plugins',
+  author: 'BidiX, Simon Baird',
+  coreVersion: '2.9.2'
+};
+
+//
+// Environment
+//
+
+if (!window.bidix) window.bidix = {};
+bidix.debugMode = false;
+
+//
+// Upload Macro
+//
+
+config.macros.thostUpload = {
+  handler: function(place,macroName,params) {
+    createTiddlyButton(place, &quot;save to tiddlyhost&quot;,
+      &quot;save this TiddlyWiki to a site on Tiddlyhost.com&quot;,
+      this.action, null, null, this.accessKey);
+  },
+
+  action: function(params) {
+    var siteName = config.options.txtThostSiteName.trim();
+    if (!siteName) {
+      alert(&quot;Tiddlyhost site name is missing!&quot;);
+      clearMessage();
+    }
+    else {
+      bidix.thostUpload.uploadChanges('https://' + siteName + '.tiddlyhost.com');
+    }
+    return false;
+  }
+};
+
+//
+// Upload functions
+//
+
+if (!bidix.thostUpload) bidix.thostUpload = {};
+
+if (!bidix.thostUpload.messages) bidix.thostUpload.messages = {
+  invalidFileError: &quot;The original file '%0' does not appear to be a valid TiddlyWiki&quot;,
+  mainSaved: &quot;Main TiddlyWiki file uploaded&quot;,
+  mainFailed: &quot;Failed to upload main TiddlyWiki file. Your changes have not been saved&quot;,
+  loadOriginalHttpPostError: &quot;Can't get original file&quot;,
+  aboutToSaveOnHttpPost: 'About to upload on %0 ...',
+  storePhpNotFound: &quot;The store script '%0' was not found.&quot;
+};
+
+bidix.thostUpload.uploadChanges = function(storeUrl) {
+  var callback = function(status, uploadParams, original, url, xhr) {
+    if (!status) {
+      displayMessage(bidix.thostUpload.messages.loadOriginalHttpPostError);
+      return;
+    }
+    if (bidix.debugMode) {
+      alert(original.substr(0,500)+&quot;\n...&quot;);
+    }
+
+    var posDiv = locateStoreArea(original);
+    if ((posDiv[0] == -1) || (posDiv[1] == -1)) {
+      alert(config.messages.invalidFileError.format([localPath]));
+      return;
+    }
+
+    bidix.thostUpload.uploadMain(uploadParams, original, posDiv);
+  };
+
+  clearMessage();
+
+  // get original
+  var uploadParams = [storeUrl];
+  var originalPath = document.location.toString();
+  var dest = 'index.html';
+  displayMessage(bidix.thostUpload.messages.aboutToSaveOnHttpPost.format([dest]));
+
+  if (bidix.debugMode) {
+    alert(&quot;about to execute Http - GET on &quot;+originalPath);
+  }
+
+  var r = doHttp(&quot;GET&quot;, originalPath, null, null, null, null, callback, uploadParams, null);
+
+  if (typeof r == &quot;string&quot;) {
+    displayMessage(r);
+  }
+
+  return r;
+};
+
+bidix.thostUpload.uploadMain = function(uploadParams, original, posDiv) {
+  var callback = function(status, params, responseText, url, xhr) {
+    if (status) {
+      displayMessage(bidix.thostUpload.messages.mainSaved);
+      store.setDirty(false);
+    }
+    else {
+      alert(bidix.thostUpload.messages.mainFailed);
+      displayMessage(bidix.thostUpload.messages.mainFailed);
+    }
+  };
+
+  var revised = bidix.thostUpload.updateOriginal(original, posDiv);
+  bidix.thostUpload.httpUpload(uploadParams, revised, callback, uploadParams);
+};
+
+bidix.thostUpload.httpUpload = function(uploadParams, data, callback, params) {
+  var localCallback = function(status, params, responseText, url, xhr) {
+    if (xhr.status == 404) {
+      alert(bidix.thostUpload.messages.storePhpNotFound.format([url]));
+    }
+
+    var saveNotOk = responseText.charAt(0) != '0';
+
+    if (bidix.debugMode || saveNotOk) {
+      alert(responseText);
+    }
+
+    if (saveNotOk) {
+      status = null;
+    }
+
+    callback(status, params, responseText, url, xhr);
+  };
+
+  // do httpUpload
+  var boundary = &quot;---------------------------&quot;+&quot;AaB03x&quot;;
+  var uploadFormName = &quot;UploadPlugin&quot;;
+  // compose headers data
+  var sheader = &quot;&quot;;
+  sheader += &quot;--&quot; + boundary + &quot;\r\nContent-disposition: form-data; name=\&quot;&quot;;
+  sheader += uploadFormName +&quot;\&quot;\r\n\r\n&quot;;
+  sheader += &quot;backupDir=x&quot; +
+        &quot;;user=x&quot; +
+        &quot;;password=x&quot; +
+        &quot;;uploaddir=x&quot;;
+  if (bidix.debugMode) {
+    sheader += &quot;;debug=1&quot;;
+  }
+  sheader += &quot;;;\r\n&quot;;
+  sheader += &quot;\r\n&quot; + &quot;--&quot; + boundary + &quot;\r\n&quot;;
+  sheader += &quot;Content-disposition: form-data; name=\&quot;userfile\&quot;; filename=\&quot;index.html\&quot;\r\n&quot;;
+  sheader += &quot;Content-Type: text/html;charset=UTF-8&quot; + &quot;\r\n&quot;;
+  sheader += &quot;Content-Length: &quot; + data.length + &quot;\r\n\r\n&quot;;
+  // compose trailer data
+  var strailer = &quot;&quot;;
+  strailer = &quot;\r\n--&quot; + boundary + &quot;--\r\n&quot;;
+  data = sheader + data + strailer;
+  if (bidix.debugMode) {
+    alert(&quot;about to execute Http - POST on &quot; + uploadParams[0]+ &quot;\n with \n&quot; + data.substr(0,500) + &quot; ... &quot;);
+  }
+  var r = doHttp(&quot;POST&quot;, uploadParams[0], data,
+    &quot;multipart/form-data; ;charset=UTF-8; boundary=&quot; + boundary, 'x','x', localCallback, params, null);
+
+  if (typeof r == &quot;string&quot;) {
+    displayMessage(r);
+  }
+
+  return r;
+};
+
+// same as Saving's updateOriginal but without convertUnicodeToUTF8 calls
+bidix.thostUpload.updateOriginal = function(original, posDiv) {
+  if (!posDiv) {
+    posDiv = locateStoreArea(original);
+  }
+  if ((posDiv[0] == -1) || (posDiv[1] == -1)) {
+    alert(config.messages.invalidFileError.format([localPath]));
+    return;
+  }
+
+  var revised = original.substr(0, posDiv[0] + startSaveArea.length) + &quot;\n&quot; +
+    store.allTiddlersAsHtml() + &quot;\n&quot; +
+    original.substr(posDiv[1]);
+
+  var newSiteTitle = getPageTitle().htmlEncode();
+  revised = revised.replaceChunk(&quot;&amp;lt;title&quot;+&quot;&amp;gt;&quot;,&quot;&amp;lt;/title&quot;+&quot;&amp;gt;&quot;,&quot; &quot; + newSiteTitle + &quot; &quot;);
+  revised = updateMarkupBlock(revised,&quot;PRE-HEAD&quot;,&quot;MarkupPreHead&quot;);
+  revised = updateMarkupBlock(revised,&quot;POST-HEAD&quot;,&quot;MarkupPostHead&quot;);
+  revised = updateMarkupBlock(revised,&quot;PRE-BODY&quot;,&quot;MarkupPreBody&quot;);
+  revised = updateMarkupBlock(revised,&quot;POST-SCRIPT&quot;,&quot;MarkupPostBody&quot;);
+  return revised;
+};
+
+//
+// Site config
+//
+
+bidix.initOption = function(name,value) {
+  if (!config.options[name]) {
+    config.options[name] = value;
+  }
+};
+
+merge(config.optionsDesc, {
+  txtThostSiteName: &quot;Site name for uploads to Tiddlyhost.com&quot;,
+});
+
+bidix.initOption('txtThostSiteName','starkakrats');
+
+//
+// Tiddlyhost stuff
+//
+
+// So you can see edit controls via http
+config.options.chkHttpReadOnly = false;
+window.readOnly = false;
+window.showBackstage = true;
+
+// Add 'upload to tiddlyhost' button
+with (config.shadowTiddlers) {
+  SideBarOptions = SideBarOptions.replace(/(&amp;lt;&amp;lt;saveChanges&amp;gt;&amp;gt;)/,&quot;$1&amp;lt;&amp;lt;thostUpload&amp;gt;&amp;gt;&quot;);
+}
+&lt;/pre&gt;</description>
+<category>systemConfig</category>
+<link>https://starkakrats.tiddlyhost.com/#ThostUploadPlugin</link>
+<pubDate>Wed, 10 May 2023 16:00:00 GMT</pubDate>
+
+</item>
+<item>
+<title>ImageMacro</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;ImageMacro&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Created by&lt;/td&gt;&lt;td&gt;Andre' de Carvalho&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Location&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://acarvalho.tiddlyspace.com/#ImageMacro&quot; title=&quot;External link to http://acarvalho.tiddlyspace.com/#ImageMacro&quot; target=&quot;_blank&quot;&gt;http://acarvalho.tiddlyspace.com/#ImageMacro&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Version&lt;/td&gt;&lt;td&gt;1.1.1&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Date&lt;/td&gt;&lt;td&gt;2021 06 18&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Type&lt;/td&gt;&lt;td&gt;Macro&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;A TiddlyWiki Macro to create configurable links to images.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h2&gt;Example&lt;/h2&gt;&lt;span class=&quot;imgfloatleft&quot;&gt;&lt;img title=&quot;DRAG=stretch/shrink, SHIFT-CLICK=show full size, CTRL-CLICK=restore initial size&quot; src=&quot;https://dl.dropbox.com/s/vfki4dkx343k4ut/Coupling-root-level.png?dl=1&quot; style=&quot;width: 200px; cursor: move;&quot;&gt;&lt;br&gt;&lt;span style=&quot;padding: 0.8em;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;sup&gt;Root level allowed dependencies.&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;pre&gt;&amp;lt;&amp;lt;Image &quot;FL&quot; &quot;200&quot; &quot;Coupling-root-level.png&quot; &quot;https://dl.dropbox.com/&quot; &quot;s/vfki4dkx343k4ut/&quot; &quot;?dl=1&quot; &quot;Root level allowed dependencies.&quot;&amp;gt;&amp;gt;
+&lt;/pre&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;or&lt;br&gt;&lt;br&gt;&lt;span class=&quot;imgfloatright&quot;&gt;&lt;img title=&quot;DRAG=stretch/shrink, SHIFT-CLICK=show full size, CTRL-CLICK=restore initial size&quot; src=&quot;https://dl.dropbox.com/s/vfki4dkx343k4ut/Coupling-root-level.png?dl=1&quot; style=&quot;width: 200px; cursor: move;&quot;&gt;&lt;br&gt;&lt;span style=&quot;padding: 0.8em;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;sup&gt;Root level allowed dependencies.&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;pre&gt;&amp;lt;&amp;lt;Image &quot;FR&quot; &quot;200&quot; &quot;Coupling-root-level.png&quot; &quot;https://dl.dropbox.com/&quot; &quot;s/vfki4dkx343k4ut/&quot; &quot;?dl=1&quot; &quot;Root level allowed dependencies.&quot;&amp;gt;&amp;gt;
+&lt;/pre&gt;&lt;br&gt;or&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://dl.dropbox.com/s/vfki4dkx343k4ut/Coupling-root-level.png?dl=1&quot;&gt;&lt;br&gt;&lt;pre&gt;&amp;lt;&amp;lt;Image &quot;&quot; &quot;&quot; &quot;Coupling-root-level.png&quot; &quot;https://dl.dropbox.com/&quot; &quot;s/vfki4dkx343k4ut/&quot; &quot;?dl=1&quot; &quot;Root level allowed dependencies.&quot;&amp;gt;&amp;gt;
+&lt;/pre&gt;&lt;br&gt;&lt;h2&gt;Installation&lt;/h2&gt;Import (or copy/paste) this tiddler into your document and tag it with &quot;systemConfig&quot;.  For using size you need &lt;a class=&quot;externalLink&quot; href=&quot;	http://www.TiddlyTools.com/#ImageSizePlugin&quot; title=&quot;External link to 	http://www.TiddlyTools.com/#ImageSizePlugin&quot; target=&quot;_blank&quot;&gt;ImageSizePlugin&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;h2&gt;Code&lt;/h2&gt;&lt;pre&gt;version.extensions.Image= {major: 1, minor: 1 , revision: 1, date: new Date(2021,06,18)};
+//Created by André de Carvalho
+&lt;/pre&gt;&lt;pre&gt;config.macros.Image = {};
+config.macros.Image.handler= function(place,macroName,params) {
+  /* Type : FL = float left, FR = float right, &quot;&quot; = no float */
+   var type=params[0];
+  /* Size : number = pixels (requires ImageSizePlugin), &quot;&quot; = no size */
+   var size=params[1];
+  /* Name : the name of the image file */
+   var name=params[2];
+  /* Path : the path of the image file (include end backslash) */
+   var path = params[3];
+  /* Prefix : optional prefix to be inserted between Path and FileName */
+   var prefix = params[4];
+  /* Postfix : optional postfix to be appended after FileName */
+   var postfix = params[5];
+  /* Caption : optional caption */
+   var caption = params[6];
+
+  var ini = &quot;&quot;;
+  var end = &quot;&quot;;
+
+  if (caption)
+  {
+    caption = &quot;&amp;lt;br&amp;gt;@@padding:0.8em;@@@@color:#00f;^^&quot;+caption+&quot;^^@@&quot;;
+  }
+  else
+  {
+    caption = &quot;&quot;;
+  }
+
+  switch(type)
+  {
+    case &quot;FR&quot;:
+      ini = &quot;{{imgfloatright{[img&quot;;
+      end = &quot;]]&quot;+caption+&quot;}}}&quot;;
+      break;
+    case &quot;FL&quot;:
+      ini = &quot;{{imgfloatleft{[img&quot;;
+      end = &quot;]]&quot;+caption+&quot;}}}&quot;;
+      break;
+    default:
+      ini=&quot;[img&quot;;
+      end = &quot;]]&quot;;
+  }
+
+  if (size)
+    ini = ini + &quot;(&quot;+size+&quot;px+,+)&quot;;
+
+   ini = ini+&quot;[&quot;;
+   if (path)
+     ini = ini+ path;
+   if (prefix)
+     ini = ini+ prefix;
+   if (name)
+     ini = ini+ name;
+   if (postfix)
+     ini = ini+ postfix;
+
+   wikify(ini+end, place)
+};
+&lt;/pre&gt; </description>
+<category>TODO</category>
+<category>systemConfig</category>
+<link>https://starkakrats.tiddlyhost.com/#ImageMacro</link>
+<pubDate>Fri, 18 Jun 2021 08:56:00 GMT</pubDate>
+
+</item>
+<item>
+<title>HoverMenu</title>
+<description>&lt;a class=&quot;button&quot; href=&quot;javascript:;&quot; title=&quot;jump to top&quot;&gt;^&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;button&quot; href=&quot;javascript:;&quot; title=&quot;jump to an open tiddler&quot; top=&quot;true&quot;&gt;j&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;button HideSideBarButton&quot; href=&quot;javascript:;&quot; title=&quot;toggle sidebar&quot;&gt;&amp;gt;&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;button&quot; href=&quot;javascript:;&quot; title=&quot;Full Screen&quot;&gt;↕&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;button&quot; href=&quot;javascript:;&quot; title=&quot;Create a new tiddler&quot; accesskey=&quot;N&quot; newtitle=&quot;New Tiddler&quot; isjournal=&quot;false&quot; newfocus=&quot;title&quot; newtemplate=&quot;2&quot;&gt;n&lt;/a&gt;&lt;br&gt;&lt;a class=&quot;button&quot; href=&quot;javascript:;&quot; title=&quot;Save TiddlyWiki&quot;&gt;s&lt;/a&gt;&lt;br&gt;</description>
+<category>Administration</category>
+<category>System</category>
+<link>https://starkakrats.tiddlyhost.com/#HoverMenu</link>
+<pubDate>Fri, 12 Mar 2021 18:13:00 GMT</pubDate>
+
+</item>
+<item>
+<title>UnsavedChangesPlugin</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;UnsavedChangesPlugin&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Source&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://www.TiddlyTools.com/#UnsavedChangesPlugin&quot; title=&quot;External link to http://www.TiddlyTools.com/#UnsavedChangesPlugin&quot; target=&quot;_blank&quot;&gt;http://www.TiddlyTools.com/#UnsavedChangesPlugin&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Version&lt;/td&gt;&lt;td&gt;3.3.6&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Author&lt;/td&gt;&lt;td&gt;Eric Shulman&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;License&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://www.TiddlyTools.com/#LegalStatements&quot; title=&quot;External link to http://www.TiddlyTools.com/#LegalStatements&quot; target=&quot;_blank&quot;&gt;http://www.TiddlyTools.com/#LegalStatements&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;CoreVersion&lt;/td&gt;&lt;td&gt;2.1&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Type&lt;/td&gt;&lt;td&gt;plugin&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;show droplist of tiddlers that have changed since the last time the document was saved&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;Display a list of tiddlers that have been changed since the last time the document was saved.  The list includes all new/modified tiddlers as well as those changed with &quot;minor edits&quot; enabled and any tiddlers that you import during the session, regardless of their modification date.&lt;br&gt;&lt;h5&gt;Usage&lt;/h5&gt;&lt;blockquote&gt;&lt;pre&gt;&amp;lt;&amp;lt;unsavedChanges panel&amp;gt;&amp;gt; or &amp;lt;&amp;lt;unsavedChanges&amp;gt;&amp;gt;
+&lt;/pre&gt;&lt;div class=&quot;indent&quot;&gt;the &lt;strong&gt;panel&lt;/strong&gt; keyword displays a 'control panel' interface containing a droplist of unsaved tiddlers and a 'goto' button, along with a command link to 'save changes'.  Depending upon what other plugins are installed, several additional elements will also be displayed: When &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#NestedSlidersPlugin&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#NestedSlidersPlugin&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;NestedSlidersPlugin&quot;&gt;NestedSlidersPlugin&lt;/a&gt; is installed, the entire control panel is contained within a &lt;strong&gt;SLIDER&lt;/strong&gt;.  When &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#LoadTiddlersPlugin&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#LoadTiddlersPlugin&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;LoadTiddlersPlugin&quot;&gt;LoadTiddlersPlugin&lt;/a&gt; is installed, a &lt;strong&gt;REVERT&lt;/strong&gt; button is added.  When &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#SaveAsPlugin&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#SaveAsPlugin&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;SaveAsPlugin&quot;&gt;SaveAsPlugin&lt;/a&gt; is installed, a &lt;strong&gt;SAVE AS&lt;/strong&gt; link is added.  When &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#UploadPlugin&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#UploadPlugin&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;UploadPlugin&quot;&gt;UploadPlugin&lt;/a&gt; is installed, an &lt;strong&gt;UPLOAD&lt;/strong&gt; (or &lt;strong&gt;save to web&lt;/strong&gt;) link is added.  When &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#TrashPlugin&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#TrashPlugin&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;TrashPlugin&quot;&gt;TrashPlugin&lt;/a&gt; is installed and there are tiddlers tagged with&lt;a class=&quot;button&quot; href=&quot;javascript:;&quot; title=&quot;Show tiddlers tagged with 'Trash'&quot; tag=&quot;Trash&quot;&gt;Trash&lt;/a&gt;, an &lt;strong&gt;EMPTY TRASH&lt;/strong&gt; link is added.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;pre&gt;&amp;lt;&amp;lt;unsavedChanges list separator&amp;gt;&amp;gt;
+&lt;/pre&gt;&lt;div class=&quot;indent&quot;&gt;the &lt;strong&gt;list&lt;/strong&gt; keyword displays a simple space-separated list of unsaved tiddlers without any other command links.  You can specify an optional &lt;strong&gt;separator&lt;/strong&gt; value that can be used in place of the default space character.  For example, you can specify &lt;code&gt;&quot;&amp;lt;br&amp;gt;&quot;&lt;/code&gt; as the separator in order to display each link, one per line.&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;pre&gt;&amp;lt;&amp;lt;unsavedChanges command label tip&amp;gt;&amp;gt;
+&lt;/pre&gt;&lt;div class=&quot;indent&quot;&gt;the &lt;strong&gt;command&lt;/strong&gt; keyword displays a single 'command link' that, when clicked, displays a TiddlyWiki popup containing the list of unsaved tiddlers, the 'save changes' command and, depending upon what other plugins are installed, additional commands for 'save as', 'upload', and 'empty trash' (similar to the panel display described above).&lt;br&gt;&lt;br&gt;You can specify optional &lt;strong&gt;label&lt;/strong&gt; and &lt;strong&gt;tip&lt;/strong&gt; parameters in the macro to customize the command link text and tooltip.  The default label for the command link is: &quot;There %1 %0 unsaved tiddler%2...&quot;, where:&lt;br&gt;&lt;ul&gt;&lt;li&gt; %0 is automatically replaced with the number of unsaved changes&lt;/li&gt;&lt;li&gt; %1 is either &quot;is&quot; (if changes=1) or &quot;are&quot; (if changes&amp;gt;1)&lt;/li&gt;&lt;li&gt; %2 is either blank (if changes=1) or &quot;s&quot; (if changes&amp;gt;1)&lt;/li&gt;&lt;/ul&gt;resulting in the text: &lt;em&gt;&quot;There is 1 unsaved tiddler...&quot;, &quot;There are 2 unsaved tiddlers...&quot;, etc.&lt;/em&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;h5&gt;Examples&lt;/h5&gt;&lt;blockquote&gt;&lt;sup&gt;&lt;em&gt;note: the following examples will not display any output unless you have already created/modified tiddlers in the current document.&lt;/em&gt;&lt;/sup&gt;&lt;br&gt;&lt;code&gt;&amp;lt;&amp;lt;unsavedChanges&amp;gt;&amp;gt;&lt;/code&gt;&lt;br&gt;&lt;span class=&quot;unsavedChanges&quot; mode=&quot;panel&quot; sep=&quot; &quot; label=&quot;There %1 %0 unsaved tiddler%2&quot; tip=&quot;view a list of unsaved tiddler changes&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;hr&gt;&lt;code&gt;&amp;lt;&amp;lt;unsavedChanges command&amp;gt;&amp;gt;&lt;/code&gt;&lt;br&gt;&lt;span class=&quot;unsavedChanges&quot; mode=&quot;command&quot; sep=&quot; &quot; label=&quot;There %1 %0 unsaved tiddler%2&quot; tip=&quot;view a list of unsaved tiddler changes&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;hr&gt;&lt;code&gt;&amp;lt;&amp;lt;unsavedChanges list&amp;gt;&amp;gt;&lt;/code&gt;&lt;br&gt;&lt;span class=&quot;unsavedChanges&quot; mode=&quot;list&quot; sep=&quot; &quot; label=&quot;There %1 %0 unsaved tiddler%2&quot; tip=&quot;view a list of unsaved tiddler changes&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;hr&gt;&lt;code&gt;&amp;lt;&amp;lt;unsavedChanges list &quot;&amp;lt;br&amp;gt;&quot;&amp;gt;&amp;gt;&lt;/code&gt;&lt;br&gt;&lt;span class=&quot;unsavedChanges&quot; mode=&quot;list&quot; sep=&quot;&lt;br&gt;&quot; label=&quot;&lt;br&gt;&quot; tip=&quot;view a list of unsaved tiddler changes&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;h5&gt;Revisions&lt;/h5&gt;&lt;blockquote&gt;2011.11.27 3.3.6 in panel(), command(), and list(), check for null 'place' (maybe caused if tiddlers are modified by a plugin during startup 'init' handling)&lt;br&gt;2011.04.29 3.3.5 in panel(), use custom label (if provided).  Also, removed &quot;small&quot; style from panel commands so surrounding CSS font size will be used.&lt;br&gt;2010.12.05 3.3.4 display 'save as...' command even if readOnly&lt;br&gt;2009.03.02 3.3.3 fix handling for titles that contain HTML special chars (lt,gt,quot,amp)&lt;br&gt;2008.09.02 3.3.2 cleanup popup list output generation and added timestamps/sizes to popup display&lt;br&gt;2008.08.23 3.3.1 added optional custom 'label' and 'tip' params to 'command' mode and defined default values for mode, label, tip, and separator as object properties for I18N/L10N-readiness.&lt;br&gt;2008.08.21 3.3.0 complete re-write of rendering and refresh processing to support multiple instances and automatic self-refresh (no longer depends upon core refresh notifications)&lt;br&gt;2008.08.21 3.2.0 added 'command' option for link+popup as alternative to 'control panel' interface&lt;br&gt;2008.04.22 3.1.2 use SaveAsPlugin instead of obsolete NewDocumentPlugin to add &quot;save as&quot; link&lt;br&gt;2007.12.22 3.1.1 hijack removeTiddler() instead of low-level deleteTiddler() to correct tracking and refresh handling issues.  in saveTiddler(), check for 'tiddler rename' (title!=newtitle) and adjust list accordingly.&lt;br&gt;2007.12.21 3.1.0 added support for &lt;code&gt;&amp;lt;&amp;lt;unsavedChanges list separator&amp;gt;&amp;gt;&lt;/code&gt; usage to unsaved tiddlers as a simple list of links, embedded in tiddler content (e.g., &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#MainMenu&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#MainMenu&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;MainMenu&quot;&gt;MainMenu&lt;/a&gt;)&lt;br&gt;2007.12.20 3.0.0 rewrite to track ALL changed tiddlers, including imports and minor edits, regardless of saved modification dates.  Also, rewrote display logic to directly refresh macro output instead of triggering a page refresh.  The entire process is MUCH more efficient now.&lt;br&gt;2007.08.02 2.0.0 converted from inline script&lt;br&gt;2007.01.01 1.0.0 initial release&lt;br&gt;&lt;/blockquote&gt;&lt;h5&gt;Code&lt;/h5&gt;&lt;pre&gt;version.extensions.UnsavedChangesPlugin= {major: 3, minor: 3, revision: 6, date: new Date(2011,12,27)};
+
+config.macros.unsavedChanges = {
+	changed: [], // list of currently unsaved tiddler titles
+	defMode: &quot;panel&quot;,
+	defSep: &quot; &quot;,
+	defLabel: &quot;There %1 %0 unsaved tiddler%2&quot;,
+	defTip: &quot;view a list of unsaved tiddler changes&quot;,
+	handler: function(place,macroName,params,wikifier,paramString,tiddler) {
+		var wrapper=createTiddlyElement(place,&quot;span&quot;,null,&quot;unsavedChanges&quot;);
+		wrapper.setAttribute(&quot;mode&quot;,params[0]||this.defMode);
+		wrapper.setAttribute(&quot;sep&quot;,params[1]||this.defSep); // for 'list' mode
+		wrapper.setAttribute(&quot;label&quot;,params[1]||this.defLabel); // for 'command' mode
+		wrapper.setAttribute(&quot;tip&quot;,params[2]||this.defTip); // for 'command' mode
+		this.render(wrapper);
+	},
+	render: function(wrapper) {
+		removeChildren(wrapper); // make sure its empty
+		if (!this.changed.length) return; // no changes = no output
+		switch (wrapper.getAttribute(&quot;mode&quot;)) {
+			case &quot;command&quot;: this.command(wrapper); break;
+			case &quot;list&quot;: this.list(wrapper); break;
+			case &quot;panel&quot;: default: this.panel(wrapper); break;
+		}
+	},
+	refresh: function() {
+		var wrappers=document.getElementsByTagName(&quot;span&quot;);
+		for (var w=0; w&amp;lt;wrappers.length; w++)
+			if (hasClass(wrappers[w],&quot;unsavedChanges&quot;))
+				this.render(wrappers[w]);
+	},
+	list: function(place) { // show simple list of unsaved tiddlers
+		if (!place) return;
+		wikify(&quot;[[&quot;+this.changed.join(&quot;]]&quot;+place.getAttribute(&quot;sep&quot;)+&quot;[[&quot;)+&quot;]]&quot;,place);
+	},
+	command: function(place) { // show command link with popup list
+		if (!place) return;
+		var c=this.changed.length;
+		var txt=place.getAttribute(&quot;label&quot;).format([c,c==1?'is':'are',c==1?'':'s']);
+		var tip=place.getAttribute(&quot;tip&quot;);
+		var action=function(ev) { if (!ev) var ev=window.event;
+			var p=Popup.create(this); if (!p) return false;
+			var d=createTiddlyElement(p,&quot;div&quot;);
+			d.style.whiteSpace=&quot;normal&quot;; d.style.width=&quot;auto&quot;; d.style.padding=&quot;2px&quot;;
+			// gather pretty links for changed tiddlers
+			var list=[]; var item=&quot; &amp;amp;nbsp;[[%1 - %0 (%2 bytes)|%0]]&amp;amp;nbsp; &quot;;
+			for (var i=config.macros.unsavedChanges.changed.length-1; i&amp;gt;=0; i--) {
+				var tid=store.getTiddler(config.macros.unsavedChanges.changed[i]);
+				if (!tid) continue;
+				var when=tid.modified.formatString('YYYY.0MM.0DD 0hh:0mm:0ss');
+				list.push(item.format([tid.title,when,tid.text.length]));
+			}
+			wikify(&quot;@@white-space:nowrap;&quot;+list.join(&quot;&amp;lt;br&amp;gt;&quot;)+&quot;@@&quot;,d);
+			var t=&quot;\n----\n&quot;;
+			t+=&quot;@@white-space:nowrap;display:block;text-align:center; &amp;amp;nbsp;&quot;;
+			if (!readOnly) {
+				t+=&quot;&amp;lt;&amp;lt;saveChanges&amp;gt;&amp;gt;&quot;;
+				t+=config.macros.saveAs?&quot; | &amp;lt;&amp;lt;saveAs&amp;gt;&amp;gt;&quot;:&quot;&quot;;
+				t+=config.macros.upload?&quot; | &amp;lt;&amp;lt;upload&amp;gt;&amp;gt;&quot;:&quot;&quot;;
+				t+=(config.macros.emptyTrash&amp;amp;&amp;amp;store.getTaggedTiddlers(&quot;Trash&quot;).length)?&quot; | &amp;lt;&amp;lt;emptyTrash&amp;gt;&amp;gt;&quot;:&quot;&quot;;
+			} else {
+				t+=config.macros.saveAs?&quot;&amp;lt;&amp;lt;saveAs&amp;gt;&amp;gt;&quot;:&quot;&quot;;
+			}
+			t+=&quot;&amp;amp;nbsp; @@&quot;;
+			wikify(t,d);
+			Popup.show();
+			ev.cancelBubble=true; if(ev.stopPropagation)ev.stopPropagation();
+			return(false);
+		}
+		createTiddlyButton(place,txt,tip,action,&quot;button&quot;);
+	},
+	panel: function(place) { // show composite droplist+buttons+commands
+		if (!place) return;
+		// gather changed tiddlers (in reverse order by date - most recent first)
+		var tids=[]; for (var i=this.changed.length-1; i&amp;gt;=0; i--)
+			{ var t=store.getTiddler(this.changed[i]); if (t) tids.push(t); }
+		tids.sort(function(a,b){return a.modified&amp;lt;b.modified?-1:(a.modified==b.modified?0:1);});
+		// generate droplist items
+ 		var list=[]; var item='&amp;lt;option value=&quot;%0&quot;&amp;gt;%1 - %0 (%2 bytes)&amp;lt;/option&amp;gt;';
+		for (var i=tids.length-1; i&amp;gt;=0; i--) {
+			var when=tids[i].modified.formatString('YYYY.0MM.0DD 0hh:0mm:0ss');
+			list.push(item.format([tids[i].title.htmlEncode(),when,tids[i].text.length]));
+		}
+		// display droplist, buttons, and command links
+		var out=''; var c=this.changed.length;
+		var NSP=config.formatters.findByField(&quot;name&quot;,&quot;nestedSliders&quot;);
+		var summary=place.getAttribute(&quot;label&quot;).format([c,c==1?'is':'are',c==1?'':'s']);
+		out+=NSP?'+++(unsaved)['+summary+'|'+this.defTip+']...':(summary+&quot;\n&quot;);
+		out+='&amp;lt;html&amp;gt;&amp;lt;form style=&quot;display:inline&quot;&amp;gt;&amp;lt;!--\
+			--&amp;gt;&amp;lt;select size=&quot;1&quot; name=&quot;list&quot; \
+				title=&quot;select a tiddler to view&quot; \
+				onchange=&quot;var v=this.value; if (v.length) story.displayTiddler(null,v);&quot;&amp;gt;&amp;lt;!--\
+			--&amp;gt;'+list.join('')+'&amp;lt;!--\
+			--&amp;gt;&amp;lt;/select&amp;gt;&amp;lt;!--\
+			--&amp;gt;&amp;lt;input type=&quot;button&quot; value=&quot;goto&quot; onclick=&quot;this.form.list.onchange();&quot;&amp;gt;';
+		if (config.macros.loadTiddlers)  {
+			out+='&amp;lt;input type=&quot;button&quot; value=&quot;revert&quot; \
+				title=&quot;import the last saved version of this tiddler&quot; \
+				onclick=&quot;var v=this.form.list.value; if (!v.length) return; \
+					var t=\'&amp;lt;\'+\'&amp;lt;loadTiddlers [[tiddler:\'+v+\']] \'; \
+					t+=document.location.href; \
+					t+=\' confirm force noreport&amp;gt;\'+\'&amp;gt;\'; \
+					var e=document.getElementById(\'executeRevert\'); \
+					if (e) e.parentNode.removeChild(e); \
+					e=document.createElement(\'span\'); \
+					e.id=\'executeRevert\'; \
+					wikify(t,e);&quot;&amp;gt;';
+		}
+		out+='&amp;lt;/form&amp;gt;&amp;lt;/html&amp;gt;';
+		out+='\n{{nowrap{';
+		if (!readOnly) {
+			out+=&quot;&amp;lt;&amp;lt;saveChanges&amp;gt;&amp;gt;&quot;;
+			out+=config.macros.saveAs?&quot; | &amp;lt;&amp;lt;saveAs&amp;gt;&amp;gt;&quot;:&quot;&quot;;
+			out+=config.macros.upload?&quot; | &amp;lt;&amp;lt;upload&amp;gt;&amp;gt;&quot;:&quot;&quot;;
+			out+=(config.macros.emptyTrash&amp;amp;&amp;amp;store.getTaggedTiddlers(&quot;Trash&quot;).length)?&quot; | &amp;lt;&amp;lt;emptyTrash&amp;gt;&amp;gt;&quot;:&quot;&quot;;
+		} else {
+			out+=config.macros.saveAs?&quot;&amp;lt;&amp;lt;saveAs&amp;gt;&amp;gt;&quot;:&quot;&quot;;
+		}
+		out+='}}}';
+		out+=NSP?'===':'';
+		wikify(out,place);
+	}
+};
+
+// hijack store.saveTiddler() to track changes to tiddlers
+if (store.showUnsaved_saveTiddler==undefined) {
+	store.showUnsaved_saveTiddler=store.saveTiddler;
+	store.saveTiddler=function(title,newtitle) {
+		if (title!=newtitle) {
+			var i=config.macros.unsavedChanges.changed.indexOf(title);
+			if (i!=-1) config.macros.unsavedChanges.changed.splice(i,1); // remove old from list
+		} 
+		var i=config.macros.unsavedChanges.changed.indexOf(newtitle);
+		if (i!=-1) config.macros.unsavedChanges.changed.splice(i,1); // remove new title from list
+		config.macros.unsavedChanges.changed.push(newtitle); // add new title to END of list
+		var t=this.showUnsaved_saveTiddler.apply(this,arguments);
+		if (!this.notificationLevel) config.macros.unsavedChanges.refresh();
+		return t;
+	}
+}
+
+// hijack store.removeTiddler() to track changes to tiddlers
+if (store.showUnsaved_removeTiddler==undefined) {
+	store.showUnsaved_removeTiddler=store.removeTiddler;
+	store.removeTiddler=function(title) {
+		var i=config.macros.unsavedChanges.changed.indexOf(title);
+		if (i!=-1) config.macros.unsavedChanges.changed.splice(i,1); // remove from list
+		this.showUnsaved_removeTiddler.apply(this,arguments);
+		if (!this.notificationLevel) config.macros.unsavedChanges.refresh();
+	}
+}
+
+// hijack store.setDirty() function to reset change list after file save
+// note: do NOT hijack the prototype function.  This hijack should only be applied to
+// the main 'store' instance only (i.e., don't refresh when loading temporary store
+// as part of ImportTiddlers processing)
+if (store.showUnsaved_setDirty==undefined) {
+	store.showUnsaved_setDirty=store.setDirty;
+	store.setDirty = function(flag) {
+		var refresh=this.isDirty() &amp;amp;&amp;amp; !flag; // 'dirty' to 'clean', force a refresh...
+		this.showUnsaved_setDirty.apply(this,arguments); // but change the flag first.
+		if (refresh) {
+			config.macros.unsavedChanges.changed=[]; // clear changed list
+			config.macros.unsavedChanges.refresh();
+		}
+	}
+}
+&lt;/pre&gt;</description>
+<category>systemConfig</category>
+<link>https://starkakrats.tiddlyhost.com/#UnsavedChangesPlugin</link>
+<pubDate>Fri, 12 Mar 2021 18:00:00 GMT</pubDate>
+
+</item>
+<item>
+<title>PaletteViewMacro</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Name&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;PaletteViewMacro&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Version&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;0.2&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Author&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;FND&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Source&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://devpad.tiddlyspot.com/#PaletteViewMacro&quot; title=&quot;External link to http://devpad.tiddlyspot.com/#PaletteViewMacro&quot; target=&quot;_blank&quot;&gt;FND's DevPad&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;License&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; title=&quot;External link to http://creativecommons.org/licenses/by-sa/3.0/&quot; target=&quot;_blank&quot;&gt;Creative Commons Attribution-ShareAlike 3.0 License&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;strong&gt;CoreVersion&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;2.1&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Type&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;macro&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Requires&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;N/A&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Overrides&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;N/A&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Displays color palettes.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h1&gt;Notes&lt;/h1&gt;There is also &lt;a class=&quot;externalLink&quot; href=&quot;http://simon.tiddlyspot.com/#ViewPalettePlugin&quot; title=&quot;External link to http://simon.tiddlyspot.com/#ViewPalettePlugin&quot; target=&quot;_blank&quot;&gt;ViewPalettePlugin&lt;/a&gt;, which currently does not work with TiddlyWiki v2.2 though.&lt;br&gt;&lt;h1&gt;Usage&lt;/h1&gt;&lt;pre&gt;&amp;lt;&amp;lt;paletteView [tiddler name]&amp;gt;&amp;gt;
+&lt;/pre&gt;&lt;h2&gt;Example&lt;/h2&gt;&lt;table class=&quot;twtable&quot;&gt;&lt;thead&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;th&gt;Sample&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;&lt;th&gt;Name&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#fff&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;Background&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(0, 0, 0);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#000&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;Foreground&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(136, 204, 255);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#8cf&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;PrimaryPale&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(17, 136, 255);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#18f&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;PrimaryLight&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(0, 68, 187);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#04b&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;PrimaryMid&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(0, 17, 68);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#014&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;PrimaryDark&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(255, 255, 204);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#ffc&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;SecondaryPale&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(255, 238, 136);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#fe8&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;SecondaryLight&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(221, 187, 68);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#db4&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;SecondaryMid&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(136, 68, 17);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#841&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;SecondaryDark&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(238, 238, 238);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#eee&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;TertiaryPale&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(204, 204, 204);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#ccc&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;TertiaryLight&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(153, 153, 153);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#999&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;TertiaryMid&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(102, 102, 102);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#666&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;TertiaryDark&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td style=&quot;padding: 0px 4em; background-color: rgb(255, 136, 136);&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;&lt;code&gt;#f88&lt;/code&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;tiddlyLink tiddlyLinkNonExisting shadow&quot; href=&quot;file:///home/stark/%E6%96%87%E6%A1%A3/tiddlyblog-temp/index.html#ColorPalette&quot; title=&quot;These values in this shadow tiddler determine the colour scheme of the ~TiddlyWiki user interface&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;Error&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;&lt;h1&gt;Revision History&lt;/h1&gt;&lt;h2&gt;v0.1 (2007-11-18)&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; initial release&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;v0.2 (2007-11-20)&lt;/h2&gt;&lt;ul&gt;&lt;li&gt; limited processing to slices containing &lt;a class=&quot;externalLink&quot; href=&quot;http://www.w3.org/TR/CSS21/syndata.html#color-units&quot; title=&quot;External link to http://www.w3.org/TR/CSS21/syndata.html#color-units&quot; target=&quot;_blank&quot;&gt;actual color values&lt;/a&gt;&lt;/li&gt;&lt;li&gt; changed fallback value to the tiddler the macro is called from (instead of using &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#ColorPalette&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#ColorPalette&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;ColorPalette&quot;&gt;ColorPalette&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;&lt;h1&gt;To Do&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; selection list for all available palettes (tag-based)&lt;/li&gt;&lt;li&gt; parameter for custom table class&lt;/li&gt;&lt;li&gt; customizable column order&lt;/li&gt;&lt;li&gt; documentation (e.g. using from within &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#ViewTemplate&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#ViewTemplate&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;ViewTemplate&quot;&gt;ViewTemplate&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;&lt;h1&gt;Code&lt;/h1&gt;&lt;pre&gt;config.macros.paletteView = {};
+
+config.macros.paletteView.handler = function(place, macroName, params, wikifier, paramString, tiddler) {
+	var title = params[0] || tiddler.title;
+	//var palettes = store.getTaggedTiddlers(params[0]); // DEBUG: yet to be implemented
+	var colors = store.calcAllSlices(title);
+	var labels = [];
+	for(var c in colors) {
+		if(this.isColor(colors[c])) {
+			labels.push(c);
+		}
+	}
+	if(labels.length &amp;gt; 0) {
+		var output = &quot;|!Sample|!Value|!Name|h\n&quot;;
+		for(var i = 0; i &amp;lt; labels.length; i++) {
+			output += &quot;|padding:0 4em;background-color:&quot; + colors[labels[i]] + &quot;;&amp;amp;nbsp;|&quot;
+				+ &quot;{{{&quot; + colors[labels[i]] + &quot;}}}|&quot;
+				+ &quot;[[&quot; + labels[i] + &quot;|&quot; + title + &quot;]]|\n&quot;;
+		}
+		wikify(output, place);
+	}
+};
+
+config.macros.paletteView.isColor = function(s) {
+	var colors = [&quot;Black&quot;, &quot;Green&quot;, &quot;Silver&quot;, &quot;Lime&quot;, &quot;Gray&quot;, &quot;Olive&quot;, &quot;White&quot;, &quot;Yellow&quot;,
+		&quot;Maroon&quot;, &quot;Navy&quot;, &quot;Red&quot;, &quot;Blue&quot;, &quot;Purple&quot;, &quot;Teal&quot;, &quot;Fuchsia&quot;, &quot;Aqua&quot;, &quot;Orange&quot;];
+	var match = s.match(/^#[0-9A-F]{3}$|^#[0-9A-F]{6}$|^RGB\([\d,\s]{5,}\)$/i);
+	if(match) return true;
+	if(colors.contains(s)) return true;
+	return false;
+};
+&lt;/pre&gt;</description>
+<category>systemConfig</category>
+<link>https://starkakrats.tiddlyhost.com/#PaletteViewMacro</link>
+<pubDate>Mon, 30 Jan 2017 19:00:00 GMT</pubDate>
+
+</item>
+<item>
+<title>TiddlersBarPluginMP</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Name:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;TiddlersBarPluginMP&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;A bar to switch between tiddlers through tabs (like browser tabs bar).&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Version:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;1.2.5&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Date:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Jan 18,2008&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Source:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://visualtw.ouvaton.org/VisualTW.html&quot; title=&quot;External link to http://visualtw.ouvaton.org/VisualTW.html&quot; target=&quot;_blank&quot;&gt;http://visualtw.ouvaton.org/VisualTW.html&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Author:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Pascal Collin&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;License:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#License&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#License&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;License&quot;&gt;BSD open source license&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;&lt;strong&gt;CoreVersion:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;2.1.0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;&lt;strong&gt;Browser:&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Firefox 2.0; InternetExplorer 6.0, others&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h1&gt;Attention&lt;/h1&gt;This plugin contains some changings, at the end of the plugin marked with !!MP!!&lt;br&gt;&lt;br&gt;&lt;h1&gt;Demos&lt;/h1&gt;On &lt;a class=&quot;externalLink&quot; href=&quot;http://visualtw.ouvaton.org/VisualTW.html&quot; title=&quot;External link to http://visualtw.ouvaton.org/VisualTW.html&quot; target=&quot;_blank&quot;&gt;homepage&lt;/a&gt;, open several tiddlers to use the tabs bar.&lt;br&gt;&lt;h1&gt;Installation&lt;/h1&gt;&lt;ol&gt;&lt;li&gt;import this tiddler from &lt;a class=&quot;externalLink&quot; href=&quot;http://visualtw.ouvaton.org/VisualTW.html&quot; title=&quot;External link to http://visualtw.ouvaton.org/VisualTW.html&quot; target=&quot;_blank&quot;&gt;homepage&lt;/a&gt; (tagged as systemConfig)&lt;/li&gt;&lt;li&gt;save and reload&lt;/li&gt;&lt;li&gt;&lt;strong&gt;if you're using a custom &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#PageTemplate&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#PageTemplate&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;PageTemplate&quot;&gt;PageTemplate&lt;/a&gt;&lt;/strong&gt;, add &lt;code&gt;&amp;lt;div id='tiddlersBar' refresh='none' ondblclick='config.macros.tiddlersBar.onTiddlersBarAction(event)'&amp;gt;&amp;lt;/div&amp;gt;&lt;/code&gt; before &lt;code&gt;&amp;lt;div id='tiddlerDisplay'&amp;gt;&amp;lt;/div&amp;gt;&lt;/code&gt;&lt;/li&gt;&lt;li&gt;optionally, adjust &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#StyleSheetTiddlersBar&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#StyleSheetTiddlersBar&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;StyleSheetTiddlersBar&quot;&gt;StyleSheetTiddlersBar&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h1&gt;Tips&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;Doubleclick on the tiddlers bar (where there is no tab) create a new tiddler.&lt;/li&gt;&lt;li&gt;Tabs include a button to close &lt;code&gt;x&lt;/code&gt; or save &lt;code&gt;!&lt;/code&gt; their tiddler.&lt;/li&gt;&lt;li&gt;By default, click on the current tab close all others tiddlers.&lt;/li&gt;&lt;/ul&gt;&lt;h1&gt;Configuration options &lt;/h1&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkDisableTabsBar&quot; type=&quot;checkbox&quot;&gt; Disable the tabs bar (to print, by example).&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkHideTabsBarWhenSingleTab&quot; type=&quot;checkbox&quot;&gt; Automatically hide the tabs bar when only one tiddler is displayed. &lt;br&gt;&lt;input class=&quot;txtOptionInput&quot; option=&quot;txtSelectedTiddlerTabButton&quot;&gt; &lt;strong&gt;selected&lt;/strong&gt; tab command button.&lt;br&gt;&lt;input class=&quot;txtOptionInput&quot; option=&quot;txtPreviousTabKey&quot;&gt; previous tab access key.&lt;br&gt;&lt;input class=&quot;txtOptionInput&quot; option=&quot;txtNextTabKey&quot;&gt; next tab access key.&lt;br&gt;&lt;h1&gt;Code&lt;/h1&gt;&lt;pre&gt;config.options.chkEnableTabsBar = config.options.chkEnableTabsBar ? config.options.chkEnableTabsBar : true;
+config.options.chkHideTabsBarWhenSingleTab  = config.options.chkHideTabsBarWhenSingleTab  ? config.options.chkHideTabsBarWhenSingleTab  : true;
+config.options.txtSelectedTiddlerTabButton = config.options.txtSelectedTiddlerTabButton ? config.options.txtSelectedTiddlerTabButton : &quot;closeOthers&quot;;
+config.options.txtPreviousTabKey = config.options.txtPreviousTabKey ? config.options.txtPreviousTabKey : &quot;&quot;;
+config.options.txtNextTabKey = config.options.txtNextTabKey ? config.options.txtNextTabKey : &quot;&quot;;
+config.macros.tiddlersBar = {
+	tooltip : &quot;see &quot;,
+	tooltipClose : &quot;click here to close this tab&quot;,
+	tooltipSave : &quot;click here to save this tab&quot;,
+	promptRename : &quot;Enter tiddler new name&quot;,
+	currentTiddler : &quot;&quot;,
+	previousState : false,
+	previousKey : config.options.txtPreviousTabKey,
+	nextKey : config.options.txtNextTabKey,	
+	tabsAnimationSource : null, //use document.getElementById(&quot;tiddlerDisplay&quot;) if you need animation on tab switching.
+	handler: function(place,macroName,params) {
+		var previous = null;
+		if (config.macros.tiddlersBar.isShown())
+			story.forEachTiddler(function(title,e){
+				if (title==config.macros.tiddlersBar.currentTiddler){
+					var d = createTiddlyElement(null,&quot;span&quot;,null,&quot;tab tabSelected&quot;);
+					config.macros.tiddlersBar.createActiveTabButton(d,title);
+					if (previous &amp;amp;&amp;amp; config.macros.tiddlersBar.previousKey) previous.setAttribute(&quot;accessKey&quot;,config.macros.tiddlersBar.nextKey);
+					previous = &quot;active&quot;;
+				}
+				else {
+					var d = createTiddlyElement(place,&quot;span&quot;,null,&quot;tab tabUnselected&quot;);
+					var btn = createTiddlyButton(d,title,config.macros.tiddlersBar.tooltip + title,config.macros.tiddlersBar.onSelectTab);
+					btn.setAttribute(&quot;tiddler&quot;, title);
+					if (previous==&quot;active&quot; &amp;amp;&amp;amp; config.macros.tiddlersBar.nextKey) btn.setAttribute(&quot;accessKey&quot;,config.macros.tiddlersBar.previousKey);
+					previous=btn;
+				}
+				var isDirty =story.isDirty(title);
+				var c = createTiddlyButton(d,isDirty ?&quot;!&quot;:&quot;x&quot;,isDirty?config.macros.tiddlersBar.tooltipSave:config.macros.tiddlersBar.tooltipClose, isDirty ? config.macros.tiddlersBar.onTabSave : config.macros.tiddlersBar.onTabClose,&quot;tabButton&quot;);
+				c.setAttribute(&quot;tiddler&quot;, title);
+				if (place.childNodes) {
+					place.insertBefore(document.createTextNode(&quot; &quot;),place.firstChild); // to allow break line here when many tiddlers are open
+					place.insertBefore(d,place.firstChild); 
+				}
+				else place.appendChild(d);
+			})
+	}, 
+	refresh: function(place,params){
+		removeChildren(place);
+		config.macros.tiddlersBar.handler(place,&quot;tiddlersBar&quot;,params);
+		if (config.macros.tiddlersBar.previousState!=config.macros.tiddlersBar.isShown()) {
+			story.refreshAllTiddlers();
+			if (config.macros.tiddlersBar.previousState) story.forEachTiddler(function(t,e){e.style.display=&quot;&quot;;});
+			config.macros.tiddlersBar.previousState = !config.macros.tiddlersBar.previousState;
+		}
+	},
+	isShown : function(){
+		if (! config.options.chkEnableTabsBar) return false;
+		if (!config.options.chkHideTabsBarWhenSingleTab) return true;
+		var cpt=0;
+		story.forEachTiddler(function(){cpt++});
+		return (cpt&amp;gt;1);
+	},
+	selectNextTab : function(){  //used when the current tab is closed (to select another tab)
+		var previous=&quot;&quot;;
+		story.forEachTiddler(function(title){
+			if (!config.macros.tiddlersBar.currentTiddler) {
+				story.displayTiddler(null,title);
+				return;
+			}
+			if (title==config.macros.tiddlersBar.currentTiddler) {
+				if (previous) {
+					story.displayTiddler(null,previous);
+					return;
+				}
+				else config.macros.tiddlersBar.currentTiddler=&quot;&quot;; 	// so next tab will be selected
+			}
+			else previous=title;
+			});		
+	},
+	onSelectTab : function(e){
+		var t = this.getAttribute(&quot;tiddler&quot;);
+		if (t) story.displayTiddler(null,t);
+		return false;
+	},
+	onTabClose : function(e){
+		var t = this.getAttribute(&quot;tiddler&quot;);
+		if (t) {
+			if(story.hasChanges(t) &amp;amp;&amp;amp; !readOnly) {
+				if(!confirm(config.commands.cancelTiddler.warning.format([t])))
+				return false;
+			}
+			story.closeTiddler(t);
+		}
+		return false;
+	},
+	onTabSave : function(e) {
+		var t = this.getAttribute(&quot;tiddler&quot;);
+		if (!e) e=window.event;
+		if (t) config.commands.saveTiddler.handler(e,null,t);
+		return false;
+	},
+	onSelectedTabButtonClick : function(event,src,title) {
+		var t = this.getAttribute(&quot;tiddler&quot;);
+		if (!event) event=window.event;
+		if (t &amp;amp;&amp;amp; config.options.txtSelectedTiddlerTabButton &amp;amp;&amp;amp; config.commands[config.options.txtSelectedTiddlerTabButton])
+			config.commands[config.options.txtSelectedTiddlerTabButton].handler(event, src, t);
+		return false;
+	},
+	onTiddlersBarAction: function(event) {
+		var source = event.target ? event.target.id : event.srcElement.id; // FF uses target and IE uses srcElement;
+		if (source==&quot;tiddlersBar&quot;) story.displayTiddler(null,'New Tiddler',DEFAULT_EDIT_TEMPLATE,false,null,null);
+	},
+	createActiveTabButton : function(place,title) {
+		if (config.options.txtSelectedTiddlerTabButton &amp;amp;&amp;amp; config.commands[config.options.txtSelectedTiddlerTabButton]) {
+			var btn = createTiddlyButton(place, title, config.commands[config.options.txtSelectedTiddlerTabButton].tooltip ,config.macros.tiddlersBar.onSelectedTabButtonClick);
+			btn.setAttribute(&quot;tiddler&quot;, title);
+		}
+		else
+			createTiddlyText(place,title);
+	}
+}
+
+story.coreCloseTiddler = story.coreCloseTiddler? story.coreCloseTiddler : story.closeTiddler;
+story.coreDisplayTiddler = story.coreDisplayTiddler ? story.coreDisplayTiddler : story.displayTiddler;
+
+story.closeTiddler = function(title,animate,unused) {
+	if (title==config.macros.tiddlersBar.currentTiddler)
+		config.macros.tiddlersBar.selectNextTab();
+	story.coreCloseTiddler(title,false,unused); //disable animation to get it closed before calling tiddlersBar.refresh
+	var e=document.getElementById(&quot;tiddlersBar&quot;);
+	if (e) config.macros.tiddlersBar.refresh(e,null);
+}
+
+story.displayTiddler = function(srcElement,tiddler,template,animate,unused,customFields,toggle){
+	story.coreDisplayTiddler(config.macros.tiddlersBar.tabsAnimationSource,tiddler,template,animate,unused,customFields,toggle);
+	var title = (tiddler instanceof Tiddler)? tiddler.title : tiddler;  
+	if (config.macros.tiddlersBar.isShown()) {
+		story.forEachTiddler(function(t,e){
+			if (t!=title) e.style.display=&quot;none&quot;;
+			else e.style.display=&quot;&quot;;
+		})
+		config.macros.tiddlersBar.currentTiddler=title;
+	}
+	var e=document.getElementById(&quot;tiddlersBar&quot;);
+	if (e) config.macros.tiddlersBar.refresh(e,null);
+}
+
+var coreRefreshPageTemplate = coreRefreshPageTemplate ? coreRefreshPageTemplate : refreshPageTemplate;
+refreshPageTemplate = function(title) {
+	coreRefreshPageTemplate(title);
+	/*-- new --*/
+	var e = document.getElementById(&quot;tiddlersBar&quot;);
+	if (config.macros.tiddlersBar &amp;amp;&amp;amp; e) config.macros.tiddlersBar.refresh(e);
+
+// !!MP!! old prevents a theme, which has no div id=tiddlersBar from loading.
+//old	if (config.macros.tiddlersBar &amp;amp;&amp;amp; e) config.macros.tiddlersBar.refresh(document.getElementById(&quot;tiddlersBar&quot;));
+}
+
+// !!MP!! removed this line because it causes a scroll to top if a popup opens.
+// ensureVisible=function (e) {return 0}
+
+config.shadowTiddlers.StyleSheetTiddlersBar = &quot;/*{{{*/\n&quot;;
+config.shadowTiddlers.StyleSheetTiddlersBar += &quot;#tiddlersBar .button {border:0}\n&quot;;
+config.shadowTiddlers.StyleSheetTiddlersBar += &quot;#tiddlersBar .tab {white-space:nowrap}\n&quot;;
+config.shadowTiddlers.StyleSheetTiddlersBar += &quot;#tiddlersBar {padding : 1em 0.5em 2px 0.5em}\n&quot;;
+config.shadowTiddlers.StyleSheetTiddlersBar += &quot;.tabUnselected .tabButton, .tabSelected .tabButton {padding : 0 2px 0 2px; margin: 0 0 0 4px;}\n&quot;;
+config.shadowTiddlers.StyleSheetTiddlersBar += &quot;.tiddler, .tabContents {border:1px [[ColorPalette::TertiaryPale]] solid;}\n&quot;;
+config.shadowTiddlers.StyleSheetTiddlersBar +=&quot;/*}}}*/&quot;;
+store.addNotification(&quot;StyleSheetTiddlersBar&quot;, refreshStyles);
+
+config.refreshers.none = function(){return true;}
+config.shadowTiddlers.PageTemplate=config.shadowTiddlers.PageTemplate.replace(/&amp;lt;div id='tiddlerDisplay'&amp;gt;&amp;lt;\/div&amp;gt;/m,&quot;&amp;lt;div id='tiddlersBar' refresh='none' ondblclick='config.macros.tiddlersBar.onTiddlersBarAction(event)'&amp;gt;&amp;lt;/div&amp;gt;\n&amp;lt;div id='tiddlerDisplay'&amp;gt;&amp;lt;/div&amp;gt;&quot;);
+&lt;/pre&gt;</description>
+<category>System</category>
+<category>systemConfig</category>
+<link>https://starkakrats.tiddlyhost.com/#TiddlersBarPluginMP</link>
+<pubDate>Thu, 27 Jun 2013 15:05:00 GMT</pubDate>
+
+</item>
+<item>
+<title>DisplayOptions</title>
+<description>&lt;h1&gt; Display and Navigation Options&lt;/h1&gt;&lt;br&gt;&lt;em&gt;Display and navigation options for this space&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkEnableTabsBar&quot; type=&quot;checkbox&quot;&gt; Tabbed navigation&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkShowBreadcrumbs&quot; type=&quot;checkbox&quot;&gt; Show Breadcrumbs&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageMode&quot; type=&quot;checkbox&quot;&gt; Display one tiddler at a time&lt;br&gt;&lt;blockquote&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePagePermalink&quot; type=&quot;checkbox&quot;&gt; Automatically permalink current tiddler&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageKeepFoldedTiddlers&quot; type=&quot;checkbox&quot;&gt; Don't close tiddlers that are folded&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageKeepEditedTiddlers&quot; type=&quot;checkbox&quot;&gt; Don't close tiddlers that are being edited&lt;br&gt;&lt;/blockquote&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkTopOfPageMode&quot; type=&quot;checkbox&quot;&gt; Open tiddlers at the top of the page&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkBottomOfPageMode&quot; type=&quot;checkbox&quot;&gt; Open tiddlers at the bottom of the page&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageAutoScroll&quot; type=&quot;checkbox&quot;&gt; Automatically scroll tiddler into view (if needed)&lt;br&gt;&lt;br&gt;&lt;hr&gt;&lt;span style=&quot;color: rgb(196, 214, 237);&quot;&gt; &lt;sup&gt;&lt;br&gt;Description: Display and navigation options for this space&lt;br&gt;&lt;/sup&gt;&lt;/span&gt;</description>
+<category>System</category>
+<link>https://starkakrats.tiddlyhost.com/#DisplayOptions</link>
+<pubDate>Wed, 24 Apr 2013 22:33:00 GMT</pubDate>
+
+</item>
+<item>
+<title>SinglePageModePluginInfo</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#SinglePageModePluginInfo&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#SinglePageModePluginInfo&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;SinglePageModePluginInfo&quot;&gt;SinglePageModePluginInfo&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Source&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://www.TiddlyTools.com/#SinglePageModePlugin&quot; title=&quot;External link to http://www.TiddlyTools.com/#SinglePageModePlugin&quot; target=&quot;_blank&quot;&gt;http://www.TiddlyTools.com/#SinglePageModePlugin&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Documentation&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://www.TiddlyTools.com/#SinglePageModePluginInfo&quot; title=&quot;External link to http://www.TiddlyTools.com/#SinglePageModePluginInfo&quot; target=&quot;_blank&quot;&gt;http://www.TiddlyTools.com/#SinglePageModePluginInfo&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Version&lt;/td&gt;&lt;td&gt;2.9.6&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Author&lt;/td&gt;&lt;td&gt;Eric Shulman&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;License&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://www.TiddlyTools.com/#LegalStatements&quot; title=&quot;External link to http://www.TiddlyTools.com/#LegalStatements&quot; target=&quot;_blank&quot;&gt;http://www.TiddlyTools.com/#LegalStatements&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;CoreVersion&lt;/td&gt;&lt;td&gt;2.1&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Type&lt;/td&gt;&lt;td&gt;documentation&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;Documentation for &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#SinglePageModePlugin&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#SinglePageModePlugin&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;SinglePageModePlugin&quot;&gt;SinglePageModePlugin&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;Normally, as you click on the links in &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#TiddlyWiki&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#TiddlyWiki&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;TiddlyWiki&quot;&gt;TiddlyWiki&lt;/a&gt;, more and more tiddlers are displayed on the page. The order of this tiddler display depends upon when and where you have clicked. Some people like this non-linear method of reading the document, while others have reported that when many tiddlers have been opened, it can get somewhat confusing.  &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#SinglePageModePlugin&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#SinglePageModePlugin&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;SinglePageModePlugin&quot;&gt;SinglePageModePlugin&lt;/a&gt; allows you to configure &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#TiddlyWiki&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#TiddlyWiki&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;TiddlyWiki&quot;&gt;TiddlyWiki&lt;/a&gt; to navigate more like a traditional multipage web site with only one item displayed at a time.&lt;br&gt;&lt;h5&gt;Usage&lt;/h5&gt;&lt;blockquote&gt;When the plugin is enabled, only one tiddler will be displayed at a time and the browser window's titlebar is updated to include the current tiddler title.  The browser's location URL is also updated with a 'permalink' for the current tiddler so that it is easier to create a browser 'bookmark' for the current tiddler.  Alternatively, even when displaying multiple tiddlers &lt;em&gt;is&lt;/em&gt; permitted, you can still reduce the potential for confusion by forcing  tiddlers to always open at the top (or bottom) of the page instead of being displayed following the tiddler containing the link that was clicked.&lt;br&gt;&lt;/blockquote&gt;&lt;h5&gt;Configuration&lt;/h5&gt;&lt;blockquote&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageMode&quot; type=&quot;checkbox&quot;&gt; Display one tiddler at a time&lt;br&gt;&lt;blockquote&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePagePermalink&quot; type=&quot;checkbox&quot;&gt; Automatically permalink current tiddler&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageKeepFoldedTiddlers&quot; type=&quot;checkbox&quot;&gt; Don't close tiddlers that are folded&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageKeepEditedTiddlers&quot; type=&quot;checkbox&quot;&gt; Don't close tiddlers that are being edited&lt;br&gt;&lt;/blockquote&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkTopOfPageMode&quot; type=&quot;checkbox&quot;&gt; Open tiddlers at the top of the page&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkBottomOfPageMode&quot; type=&quot;checkbox&quot;&gt; Open tiddlers at the bottom of the page&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageAutoScroll&quot; type=&quot;checkbox&quot;&gt; Automatically scroll tiddler into view (if needed)&lt;br&gt;&lt;br&gt;Notes:&lt;br&gt;&lt;ul&gt;&lt;li&gt; &lt;div class=&quot;block&quot;&gt;The &quot;display one tiddler at a time&quot; option can also be &lt;em&gt;temporarily&lt;/em&gt; set/reset by including a 'paramifier' in the document URL: &lt;code&gt;#SPM:true&lt;/code&gt; or &lt;code&gt;#SPM:false&lt;/code&gt;. You can also use &lt;code&gt;SPM:expression&lt;/code&gt;, where 'expression' is any javascript statement that evaluates to true or false.  This allows you to create hard-coded links in other documents that can selectively enable/disable the use of this option based on various programmatic conditions, such as the current username. For example, using&lt;br&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;code&gt;#SPM:config.options.txtUserName!=&quot;SomeName&quot;&lt;/code&gt;&lt;br&gt;enables 'one tiddler at a time' display for all users &lt;em&gt;other than&lt;/em&gt; &quot;SomeName&quot;)&lt;/div&gt;&lt;/li&gt;&lt;li&gt; If more than one display mode is selected, 'one at a time' display takes precedence over both 'top' and 'bottom' settings, and if 'one at a time' setting is not used, 'top of page' takes precedence over 'bottom of page'.&lt;/li&gt;&lt;li&gt; When using Apple's Safari browser, automatically setting the permalink causes an error and is disabled.&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;h5&gt;Revisions&lt;/h5&gt;&lt;blockquote&gt;2008.10.17 2.9.6 changed chkSinglePageAutoScroll default to false&lt;br&gt;2008.06.12 2.9.5 corrected 'scroll to top of page' logic in auto-scroll handling&lt;br&gt;2008.06.11 2.9.4 added chkSinglePageKeepEditedTiddlers option&lt;br&gt;2008.06.05 2.9.3 in displayTiddler(), bypass single/top/bottom mode handling if startingUp.  Allows multiple tiddlers to be displayed during startup processing (e.g., #story:&lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#DefaultTiddlers&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#DefaultTiddlers&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;DefaultTiddlers&quot;&gt;DefaultTiddlers&lt;/a&gt;), even if single/top/bottom mode is enabled.&lt;br&gt;2008.04.18 2.9.2 in displayTiddler() and checkLastURL(), handling for Unicode in tiddler titles (remove explicit conversion between Unicode and UTF, as this is apparently done automatically by encode/decodeURIComponent, resulting in double-encoding!&lt;br&gt;2008.04.08 2.9.1 don't automatically add options to &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#AdvancedOptions&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#AdvancedOptions&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;AdvancedOptions&quot;&gt;AdvancedOptions&lt;/a&gt; shadow tiddler&lt;br&gt;2008.04.02 2.9.0 in displayTiddler(), when single-page mode is in use and a tiddler is being edited, ask for permission to save-and-close that tiddler, instead of just leaving it open.&lt;br&gt;2008.03.29 2.8.3 in displayTiddler(), get title from tiddler object (if needed).  Fixes errors caused when calling function passes a tiddler *object* instead of a tiddler *title*&lt;br&gt;2008.03.14 2.8.2 in displayTiddler(), if editing specified tiddler, just move it to top/bottom of story *without* re-rendering (prevents discard of partial edits).&lt;br&gt;2008.03.06 2.8.1 in paramifier handler, start 'checkURL' timer if chkSinglePageMode is enabled&lt;br&gt;2008.03.06 2.8.0 added option, &lt;code&gt;config.options.chkSinglePageKeepFoldedTiddlers&lt;/code&gt;, so folded tiddlers won't be closed when using single-page mode.  Also, in checkURL(), if hash is a &lt;strong&gt;permaview&lt;/strong&gt; (e.g., &quot;#foo bar baz&quot;), then display multiple tiddlers rather than attempting to display &quot;foo bar baz&quot; as a single tiddler&lt;br&gt;2008.03.05 2.7.0 added support for &quot;SPM:&quot; URL paramifier&lt;br&gt;2008.03.01 2.6.0 in hijack of displayTiddler(), added 'title' argument to closeAllTiddlers() so that target tiddler isn't closed-and-reopened if it was already displayed.  Also, added config.options.chkSinglePageAutoScrolloption to bypass automatic 'scroll into view' logic (note: core still does it's own ensureVisible() handling)&lt;br&gt;2007.12.22 2.5.3 in checkLastURL(), use decodeURIComponent() instead of decodeURI so that tiddler titles with commas (and/or other punctuation) are correctly handled.&lt;br&gt;2007.10.26 2.5.2 documentation cleanup&lt;br&gt;2007.10.08 2.5.1 in displayTiddler(), when using single-page or top-of-page mode, scrollTo(0,0) to ensure that page header is in view.&lt;br&gt;2007.09.13 2.5.0 for TPM/BPM modes, don't force tiddler to redisplay if already shown.  Allows transition between view/edit or collapsed/view templates, without repositioning displayed tiddler.&lt;br&gt;2007.09.12 2.4.0 added option to disable automatic permalink feature.  Also, Safari is now excluded from permalinking action to avoid bug where tiddlers don't display after hash is updated.&lt;br&gt;2007.03.03 2.3.1 fix typo when adding BPM option to &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#AdvancedOptions&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#AdvancedOptions&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;AdvancedOptions&quot;&gt;AdvancedOptions&lt;/a&gt; (prevented checkbox from appearing)&lt;br&gt;2007.03.03 2.3.0 added support for &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#BottomOfPageMode&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#BottomOfPageMode&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;BottomOfPageMode&quot;&gt;BottomOfPageMode&lt;/a&gt; (BPM) based on request from &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#DaveGarbutt&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#DaveGarbutt&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;DaveGarbutt&quot;&gt;DaveGarbutt&lt;/a&gt;&lt;br&gt;2007.02.06 2.2.3 in Story.prototype.displayTiddler(), use convertUnicodeToUTF8() for correct &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#I18N&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#I18N&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;I18N&quot;&gt;I18N&lt;/a&gt; string handling when creating URL hash string from tiddler title (based on bug report from &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#BidiX&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#BidiX&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;BidiX&quot;&gt;BidiX&lt;/a&gt;)&lt;br&gt;2007.01.08 2.2.2 use apply() to invoke hijacked core functions&lt;br&gt;2006.07.04 2.2.1 in hijack for displayTiddlers(), suspend TPM as well as SPM so that &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#DefaultTiddlers&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#DefaultTiddlers&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;DefaultTiddlers&quot;&gt;DefaultTiddlers&lt;/a&gt; displays in the correct order.&lt;br&gt;2006.06.01 2.2.0 added chkTopOfPageMode (TPM) handling&lt;br&gt;2006.02.04 2.1.1 moved global variable declarations to config.* to avoid &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#FireFox&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#FireFox&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;FireFox&quot;&gt;FireFox&lt;/a&gt; 1.5.0.1 crash bug when assigning to globals&lt;br&gt;2005.12.27 2.1.0 hijack displayTiddlers() so that SPM can be suspended during startup while displaying the &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#DefaultTiddlers&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#DefaultTiddlers&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;DefaultTiddlers&quot;&gt;DefaultTiddlers&lt;/a&gt; (or #hash list).  Also, corrected initialization for undefined SPM flag to &quot;false&quot;, so default behavior is to display multiple tiddlers&lt;br&gt;2005.12.27 2.0.0 Update for &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#TW2&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#TW2&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;TW2&quot;&gt;TW2&lt;/a&gt;.0&lt;br&gt;2005.11.24 1.1.2 When the back and forward buttons are used, the page now changes to match the URL.  Based on code added by Clint Checketts&lt;br&gt;2005.10.14 1.1.1 permalink creation now calls encodeTiddlyLink() to handle tiddler titles with spaces in them&lt;br&gt;2005.10.14 1.1.0 added automatic setting of window title and location bar ('auto-permalink').  feature suggestion by David Dickens.&lt;br&gt;2005.10.09 1.0.1 combined documentation and code in a single tiddler&lt;br&gt;2005.08.15 1.0.0 Initial Release&lt;br&gt;&lt;/blockquote&gt;</description>
+<category>System</category>
+<link>https://starkakrats.tiddlyhost.com/#SinglePageModePluginInfo</link>
+<pubDate>Wed, 24 Apr 2013 16:26:00 GMT</pubDate>
+
+</item>
+<item>
+<title>SinglePageModePlugin</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;SinglePageModePlugin&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Source&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://www.TiddlyTools.com/#SinglePageModePlugin&quot; title=&quot;External link to http://www.TiddlyTools.com/#SinglePageModePlugin&quot; target=&quot;_blank&quot;&gt;http://www.TiddlyTools.com/#SinglePageModePlugin&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Documentation&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://www.TiddlyTools.com/#SinglePageModePluginInfo&quot; title=&quot;External link to http://www.TiddlyTools.com/#SinglePageModePluginInfo&quot; target=&quot;_blank&quot;&gt;http://www.TiddlyTools.com/#SinglePageModePluginInfo&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Version&lt;/td&gt;&lt;td&gt;2.9.7&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Author&lt;/td&gt;&lt;td&gt;Eric Shulman&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;License&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://www.TiddlyTools.com/#LegalStatements&quot; title=&quot;External link to http://www.TiddlyTools.com/#LegalStatements&quot; target=&quot;_blank&quot;&gt;http://www.TiddlyTools.com/#LegalStatements&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;CoreVersion&lt;/td&gt;&lt;td&gt;2.1&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Type&lt;/td&gt;&lt;td&gt;plugin&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;Show tiddlers one at a time with automatic permalink, or always open tiddlers at top/bottom of page.&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;This plugin allows you to configure TiddlyWiki to navigate more like a traditional multipage web site with only one tiddler displayed at a time.&lt;br&gt;&lt;h5&gt;Documentation&lt;/h5&gt;&lt;blockquote&gt;see &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#SinglePageModePluginInfo&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#SinglePageModePluginInfo&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;SinglePageModePluginInfo&quot;&gt;SinglePageModePluginInfo&lt;/a&gt;&lt;br&gt;&lt;/blockquote&gt;&lt;h5&gt;Configuration&lt;/h5&gt;&lt;blockquote&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageMode&quot; type=&quot;checkbox&quot;&gt; Display one tiddler at a time&lt;br&gt;&lt;blockquote&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePagePermalink&quot; type=&quot;checkbox&quot;&gt; Automatically permalink current tiddler&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageKeepFoldedTiddlers&quot; type=&quot;checkbox&quot;&gt; Don't close tiddlers that are folded&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageKeepEditedTiddlers&quot; type=&quot;checkbox&quot;&gt; Don't close tiddlers that are being edited&lt;br&gt;&lt;/blockquote&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkTopOfPageMode&quot; type=&quot;checkbox&quot;&gt; Open tiddlers at the top of the page&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkBottomOfPageMode&quot; type=&quot;checkbox&quot;&gt; Open tiddlers at the bottom of the page&lt;br&gt;&lt;input class=&quot;chkOptionInput&quot; option=&quot;chkSinglePageAutoScroll&quot; type=&quot;checkbox&quot;&gt; Automatically scroll tiddler into view (if needed)&lt;br&gt;&lt;br&gt;Notes:&lt;br&gt;&lt;ul&gt;&lt;li&gt; The &quot;display one tiddler at a time&quot; option can also be &lt;em&gt;temporarily&lt;/em&gt; set/reset by including a 'paramifier' in the document URL: &lt;code&gt;#SPM:true&lt;/code&gt; or &lt;code&gt;#SPM:false&lt;/code&gt;.&lt;/li&gt;&lt;li&gt; If more than one display mode is selected, 'one at a time' display takes precedence over both 'top' and 'bottom' settings, and if 'one at a time' setting is not used, 'top of page' takes precedence over 'bottom of page'.&lt;/li&gt;&lt;li&gt; When using Apple's Safari browser, automatically setting the permalink causes an error and is disabled.&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;&lt;h5&gt;Revisions&lt;/h5&gt;&lt;blockquote&gt;2010.11.30 2.9.7 use story.getTiddler()&lt;br&gt;2008.10.17 2.9.6 changed chkSinglePageAutoScroll default to false&lt;br&gt;&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td align=&quot;center&quot;&gt;Please see &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#SinglePageModePluginInfo&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#SinglePageModePluginInfo&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;SinglePageModePluginInfo&quot;&gt;SinglePageModePluginInfo&lt;/a&gt; for previous revision details&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;2005.08.15 1.0.0 Initial Release.  Support for BACK/FORWARD buttons adapted from code developed by Clint Checketts.&lt;br&gt;&lt;/blockquote&gt;&lt;h5&gt;Code&lt;/h5&gt;&lt;pre&gt;version.extensions.SinglePageModePlugin= {major: 2, minor: 9, revision: 7, date: new Date(2010,11,30)};
+&lt;/pre&gt;&lt;pre&gt;config.paramifiers.SPM = { onstart: function(v) {
+	config.options.chkSinglePageMode=eval(v);
+	if (config.options.chkSinglePageMode &amp;amp;&amp;amp; config.options.chkSinglePagePermalink &amp;amp;&amp;amp; !config.browser.isSafari) {
+		config.lastURL = window.location.hash;
+		if (!config.SPMTimer) config.SPMTimer=window.setInterval(function() {checkLastURL();},1000);
+	}
+} };
+&lt;/pre&gt;&lt;pre&gt;if (config.options.chkSinglePageMode==undefined)
+	config.options.chkSinglePageMode=false;
+if (config.options.chkSinglePagePermalink==undefined)
+	config.options.chkSinglePagePermalink=true;
+if (config.options.chkSinglePageKeepFoldedTiddlers==undefined)
+	config.options.chkSinglePageKeepFoldedTiddlers=false;
+if (config.options.chkSinglePageKeepEditedTiddlers==undefined)
+	config.options.chkSinglePageKeepEditedTiddlers=false;
+if (config.options.chkTopOfPageMode==undefined)
+	config.options.chkTopOfPageMode=false;
+if (config.options.chkBottomOfPageMode==undefined)
+	config.options.chkBottomOfPageMode=false;
+if (config.options.chkSinglePageAutoScroll==undefined)
+	config.options.chkSinglePageAutoScroll=false;
+&lt;/pre&gt;&lt;pre&gt;config.SPMTimer = 0;
+config.lastURL = window.location.hash;
+function checkLastURL()
+{
+	if (!config.options.chkSinglePageMode)
+		{ window.clearInterval(config.SPMTimer); config.SPMTimer=0; return; }
+	if (config.lastURL == window.location.hash) return; // no change in hash
+	var tids=decodeURIComponent(window.location.hash.substr(1)).readBracketedList();
+	if (tids.length==1) // permalink (single tiddler in URL)
+		story.displayTiddler(null,tids[0]);
+	else { // restore permaview or default view
+		config.lastURL = window.location.hash;
+		if (!tids.length) tids=store.getTiddlerText(&quot;DefaultTiddlers&quot;).readBracketedList();
+		story.closeAllTiddlers();
+		story.displayTiddlers(null,tids);
+	}
+}
+
+
+if (Story.prototype.SPM_coreDisplayTiddler==undefined)
+	Story.prototype.SPM_coreDisplayTiddler=Story.prototype.displayTiddler;
+Story.prototype.displayTiddler = function(srcElement,tiddler,template,animate,slowly)
+{
+	var title=(tiddler instanceof Tiddler)?tiddler.title:tiddler;
+	var tiddlerElem=story.getTiddler(title); // ==null unless tiddler is already displayed
+	var opt=config.options;
+	var single=opt.chkSinglePageMode &amp;amp;&amp;amp; !startingUp;
+	var top=opt.chkTopOfPageMode &amp;amp;&amp;amp; !startingUp;
+	var bottom=opt.chkBottomOfPageMode &amp;amp;&amp;amp; !startingUp;
+	if (single) {
+		story.forEachTiddler(function(tid,elem) {
+			// skip current tiddler and, optionally, tiddlers that are folded.
+			if (	tid==title
+				|| (opt.chkSinglePageKeepFoldedTiddlers &amp;amp;&amp;amp; elem.getAttribute(&quot;folded&quot;)==&quot;true&quot;))
+				return;
+			// if a tiddler is being edited, ask before closing
+			if (elem.getAttribute(&quot;dirty&quot;)==&quot;true&quot;) {
+				if (opt.chkSinglePageKeepEditedTiddlers) return;
+				// if tiddler to be displayed is already shown, then leave active tiddler editor as is
+				// (occurs when switching between view and edit modes)
+				if (tiddlerElem) return;
+				// otherwise, ask for permission
+				var msg=&quot;'&quot;+tid+&quot;' is currently being edited.\n\n&quot;;
+				msg+=&quot;Press OK to save and close this tiddler\nor press Cancel to leave it opened&quot;;
+				if (!confirm(msg)) return; else story.saveTiddler(tid);
+			}
+			story.closeTiddler(tid);
+		});
+	}
+	else if (top)
+		arguments[0]=null;
+	else if (bottom)
+		arguments[0]=&quot;bottom&quot;;
+	if (single &amp;amp;&amp;amp; opt.chkSinglePagePermalink &amp;amp;&amp;amp; !config.browser.isSafari) {
+		window.location.hash = encodeURIComponent(String.encodeTiddlyLink(title));
+		config.lastURL = window.location.hash;
+		document.title = wikifyPlain(&quot;SiteTitle&quot;) + &quot; - &quot; + title;
+		if (!config.SPMTimer) config.SPMTimer=window.setInterval(function() {checkLastURL();},1000);
+	}
+	if (tiddlerElem &amp;amp;&amp;amp; tiddlerElem.getAttribute(&quot;dirty&quot;)==&quot;true&quot;) { // editing... move tiddler without re-rendering
+		var isTopTiddler=(tiddlerElem.previousSibling==null);
+		if (!isTopTiddler &amp;amp;&amp;amp; (single || top))
+			tiddlerElem.parentNode.insertBefore(tiddlerElem,tiddlerElem.parentNode.firstChild);
+		else if (bottom)
+			tiddlerElem.parentNode.insertBefore(tiddlerElem,null);
+		else this.SPM_coreDisplayTiddler.apply(this,arguments); // let CORE render tiddler
+	} else
+		this.SPM_coreDisplayTiddler.apply(this,arguments); // let CORE render tiddler
+	var tiddlerElem=story.getTiddler(title);
+	if (tiddlerElem&amp;amp;&amp;amp;opt.chkSinglePageAutoScroll) {
+		// scroll to top of page or top of tiddler
+		var isTopTiddler=(tiddlerElem.previousSibling==null);
+		var yPos=isTopTiddler?0:ensureVisible(tiddlerElem);
+		// if animating, defer scroll until after animation completes
+		var delay=opt.chkAnimate?config.animDuration+10:0;
+		setTimeout(&quot;window.scrollTo(0,&quot;+yPos+&quot;)&quot;,delay); 
+	}
+}
+
+if (Story.prototype.SPM_coreDisplayTiddlers==undefined)
+	Story.prototype.SPM_coreDisplayTiddlers=Story.prototype.displayTiddlers;
+Story.prototype.displayTiddlers = function() {
+	// suspend single/top/bottom modes when showing multiple tiddlers
+	var opt=config.options;
+	var saveSPM=opt.chkSinglePageMode; opt.chkSinglePageMode=false;
+	var saveTPM=opt.chkTopOfPageMode; opt.chkTopOfPageMode=false;
+	var saveBPM=opt.chkBottomOfPageMode; opt.chkBottomOfPageMode=false;
+	this.SPM_coreDisplayTiddlers.apply(this,arguments);
+	opt.chkBottomOfPageMode=saveBPM;
+	opt.chkTopOfPageMode=saveTPM;
+	opt.chkSinglePageMode=saveSPM;
+}
+&lt;/pre&gt;</description>
+<category>System</category>
+<category>systemConfig</category>
+<link>https://starkakrats.tiddlyhost.com/#SinglePageModePlugin</link>
+<pubDate>Wed, 24 Apr 2013 16:26:00 GMT</pubDate>
+
+</item>
+<item>
+<title>TiddlerToCPlugin</title>
+<description>&lt;table class=&quot;twtable&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;TiddlerToCPlugin&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;Tiddler Table of Contents generator&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Author&lt;/td&gt;&lt;td&gt;Julien Coloos&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Version&lt;/td&gt;&lt;td&gt;1.1.0&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Date&lt;/td&gt;&lt;td&gt;2011-06-12&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Status&lt;/td&gt;&lt;td&gt;stable&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;Source&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://julien.coloos.free.fr/TiddlyWiki-dev/#TiddlerToCPlugin&quot; title=&quot;External link to http://julien.coloos.free.fr/TiddlyWiki-dev/#TiddlerToCPlugin&quot; target=&quot;_blank&quot;&gt;http://julien.coloos.free.fr/TiddlyWiki-dev/#TiddlerToCPlugin&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;License&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink imageLink&quot; href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; title=&quot;External link to http://creativecommons.org/licenses/by-sa/3.0/&quot; target=&quot;_blank&quot;&gt;&lt;img title=&quot;CC BY-SA 3.0&quot; src=&quot;http://i.creativecommons.org/l/by-sa/3.0/80x15.png&quot;&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;evenRow&quot;&gt;&lt;td&gt;CoreVersion&lt;/td&gt;&lt;td&gt;2.6&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;oddRow&quot;&gt;&lt;td&gt;Documentation&lt;/td&gt;&lt;td&gt;&lt;a class=&quot;externalLink&quot; href=&quot;http://julien.coloos.free.fr/TiddlyWiki-dev/#TiddlerToCPlugin&quot; title=&quot;External link to http://julien.coloos.free.fr/TiddlyWiki-dev/#TiddlerToCPlugin&quot; target=&quot;_blank&quot;&gt;http://julien.coloos.free.fr/TiddlyWiki-dev/#TiddlerToCPlugin&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;&lt;span class=&quot;tw_ttoc&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;h1&gt;Description&lt;/h1&gt;This plugin adds the &lt;code&gt;TiddlerToC&lt;/code&gt; macro to generate a ToC inside a tiddler.&lt;br&gt;The generated ToC entries list the visible headings found in the tidder, each entry being preceded by a number representing its level and index (e.g.: &lt;em&gt;1.2.1&lt;/em&gt;). Those numbers link to the corresponding heading.&lt;br&gt;Found headings are also altered to display a link back to the ToC.&lt;br&gt;&lt;br&gt;The ToC does not reference tiddlers embedded using the &lt;code&gt;tiddler&lt;/code&gt;, &lt;code&gt;slider&lt;/code&gt; or &lt;code&gt;tabs&lt;/code&gt; macro.&lt;br&gt;&lt;br&gt;The ToC is either generated at a given target, or at the beginning of the place it was dropped in. If there are less headings than a given minimum (default being 2), the ToC is not displayed.&lt;br&gt;The ToC title can be clicked to hide/display the ToC content.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Notes&lt;/h1&gt;The &lt;code&gt;TiddlerToC&lt;/code&gt; macro searches for the HTML headings (&lt;code&gt;h1&lt;/code&gt; to &lt;code&gt;h6&lt;/code&gt; tags) in the place where it is inserted. Each heading is then converted to a ToC entry, preserving inner text format.&lt;br&gt;The macro thus has to be inserted at the end of the tiddler: content has been generated and the ToC can be populated.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Usage&lt;/h1&gt;The &lt;code&gt;TiddlerToC&lt;/code&gt; macro is intended to be inserted at the end of a tiddler.&lt;br&gt;&lt;br&gt;By default the ToC is generated at the beginning of the place the macro was inserted in.&lt;br&gt;However a target can be used: if the place contains an element which class is &lt;code&gt;tw_ttoc&lt;/code&gt;, this element will be replaced by the ToC.&lt;br&gt;Such an element can be generated by dropping one of the following inside the tiddler:&lt;br&gt;&lt;ul&gt;&lt;li&gt; using a TiddlyWiki macro&lt;/li&gt;&lt;/ul&gt;&lt;pre&gt;{{tw_ttoc{}}}
+&lt;/pre&gt;&lt;ul&gt;&lt;li&gt; inserting an explicit HTML tag; the advantage here is that attributes can be specified&lt;/li&gt;&lt;/ul&gt;&lt;pre&gt;&amp;lt;html&amp;gt;&amp;lt;div class=&quot;tw_ttoc&quot; min-entries=&quot;3&quot;/&amp;gt;&amp;lt;/html&amp;gt;
+&lt;/pre&gt;&lt;br&gt;&lt;br&gt;The macro and/or target element can also be used in &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#ViewTemplate&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#ViewTemplate&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;ViewTemplate&quot;&gt;ViewTemplate&lt;/a&gt; to be applied to all tiddlers:&lt;br&gt;&lt;pre&gt;...
+&amp;lt;!-- Wikified tiddler content --&amp;gt;
+&amp;lt;div class='viewer' macro='view text wikified'&amp;gt;
+	&amp;lt;!-- Insert ToC right before tiddler content --&amp;gt;
+	&amp;lt;div class='tw_ttoc'&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;!-- ToC generator, to use at the end of the tiddler --&amp;gt;
+&amp;lt;div macro='TiddlerToC min-entries:3'&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/pre&gt;&lt;br&gt;&lt;h2&gt;Parameters&lt;/h2&gt;The following parameters are available:&lt;br&gt;&lt;ul&gt;&lt;li&gt; &lt;code&gt;min-entries&lt;/code&gt; (optional)&lt;ul&gt;&lt;li&gt; minimum number of entries needed to display the ToC&lt;/li&gt;&lt;li&gt; can be specified as macro parameter, and can be overridden in the target tag (needs explicit HTML tag; see before)&lt;/li&gt;&lt;li&gt; default value is &lt;code&gt;2&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;Examples&lt;/h2&gt;Without target:&lt;br&gt;&lt;pre&gt;Tiddler content.
+...
+
+&amp;lt;&amp;lt;TiddlerToC min-entries:3&amp;gt;&amp;gt;
+&lt;/pre&gt;&lt;br&gt;With a target:&lt;br&gt;&lt;pre&gt;Beginning of the tiddler.
+...
+
+Where to generate the ToC:
+{{tw_ttoc{}}}
+Or, with a minimum number of entries specified:
+&amp;lt;html&amp;gt;&amp;lt;div class=&quot;tw_ttoc&quot; min-entries=&quot;3&quot;/&amp;gt;&amp;lt;/html&amp;gt;
+
+Tiddler continues ...
+
+&amp;lt;&amp;lt;TiddlerToC min-entries:3&amp;gt;&amp;gt;
+&lt;/pre&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Styling&lt;/h1&gt;ToC content uses some classes which style can be overriden using CSS. Those classes are:&lt;br&gt;&lt;ul&gt;&lt;li&gt; &lt;code&gt;tw_ttoc&lt;/code&gt;: ToC&lt;/li&gt;&lt;li&gt; &lt;code&gt;tw_ttoc_title&lt;/code&gt;: title (&lt;code&gt;Table of Contents&lt;/code&gt;)&lt;/li&gt;&lt;li&gt; &lt;code&gt;tw_ttoc_level&lt;/code&gt;: sub-level entry indentation&lt;/li&gt;&lt;li&gt; &lt;code&gt;tw_ttoc_entry&lt;/code&gt;: entry&lt;/li&gt;&lt;li&gt; &lt;code&gt;tw_ttoc_id&lt;/code&gt;: entry number&lt;/li&gt;&lt;li&gt; &lt;code&gt;tw_ttoc_top&lt;/code&gt;: heading link back to the ToC&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Default style can be found in the code below, and can be overridden in the &lt;a class=&quot;externalLink null&quot; href=&quot;https://starkakrats.tiddlyhost.com/#StyleSheet&quot; title=&quot;External link to https://starkakrats.tiddlyhost.com/#StyleSheet&quot; target=&quot;_blank&quot; refresh=&quot;link&quot; tiddlylink=&quot;StyleSheet&quot;&gt;StyleSheet&lt;/a&gt; tiddler.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Revision History&lt;/h1&gt;&lt;h2&gt;v1.1.0 (2011-06-12)&lt;/h2&gt;Changes:&lt;br&gt;&lt;ul&gt;&lt;li&gt; by default, ToC is now displayed only if it contains more than one entry&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Enhancements:&lt;br&gt;&lt;ul&gt;&lt;li&gt; added a macro parameter to give the minimum number of entries needed to display the ToC&lt;ul&gt;&lt;li&gt; the parameter can be overridden in the ToC target&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Fixes:&lt;br&gt;&lt;ul&gt;&lt;li&gt; do not list headings that are not &lt;em&gt;displayed&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;v1.0.1 (2011-05-29)&lt;/h2&gt;Changes:&lt;br&gt;&lt;ul&gt;&lt;li&gt; if there is none, adds a &lt;code&gt;br&lt;/code&gt; tag after the ToC&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;h2&gt;v1.0.0 (2011-05-28)&lt;/h2&gt;Initial release.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Code&lt;/h1&gt;&lt;pre&gt;if (!config.macros.TiddlerToC) {(function($) {
+
+version.extensions.TiddlerToCPlugin = {major: 1, minor: 1, revision: 0, date: new Date(2011, 6, 12)};
+
+var hTag = /^h([1-6])$/i;
+
+setStylesheet(&quot;.tw_ttoc {background-color: #F8F8F8; padding: 10px; border: 1px #CCCCCC solid;} .tw_ttoc_title {text-align:center; font-weight: bold; margin: 5px 0px 20px 0px;} .tw_ttoc_level {padding-left: 20px;} .tw_ttoc_id {margin-right: 6px;} .tw_ttoc_top {float: right; font-size: 0.5em;}&quot;, &quot;TiddlerToCPlugin&quot;);
+
+function cloneNodeWithEvents(node) {
+	var clone = node.cloneNode(true);
+	var n1 = [node].concat(Array.prototype.slice.call(node.getElementsByTagName('*')));
+	var n2 = [clone].concat(Array.prototype.slice.call(clone.getElementsByTagName('*')));
+
+	for (var i=0 ; i&amp;lt;n1.length ; i++) {
+		for (var j in n1[i]) {
+			if (j.substr(0,2) != &quot;on&quot;) continue;
+			n2[i][j] = n1[i][j];
+		}
+	}
+
+	return clone;
+}
+
+var pl = config.macros.TiddlerToC = {
+handler: function(place, macroName, params, wikifier, paramString, tiddler) {
+	var namedParams = paramString.parseParams(null, null, true), paramMinEntries = getParam(namedParams, &quot;min-entries&quot;), minEntries = paramMinEntries ? parseInt(paramMinEntries) : 2;
+
+	if ($(place).hasClass(&quot;viewer&quot;) || $(place).parents(&quot;.viewer&quot;).size()) pl.generate(place, minEntries);
+	else {
+		/* the macro is not used inside a tiddler content but probably in a template */
+		var t = story.findContainingTiddler(place);
+		if (!t) return;
+		pl.generate(t, minEntries);
+	}
+},
+getElements: function(place) {
+	var els = $();
+
+	$(place).children().each(function(i, n) {
+		/* exclude embedded tiddlers */
+		if ($(n).attr(&quot;tiddler&quot;) || $(n).hasClass(&quot;sliderPanel&quot;) || $(n).hasClass(&quot;tabsetWrapper&quot;)) return;
+		/* include headings and ToC target */
+		if (hTag.test(n.tagName) || $(n).is(&quot;.tw_ttoc&quot;)) els = els.add(n);
+		/* recurse */
+		els = els.add(pl.getElements(n));
+	});
+
+	return els;
+},
+generate: function(place, minEntries) {
+	var els = pl.getElements(place);
+
+	/* get ToC target, or insert it as first element */
+	var toc = els.filter(&quot;.tw_ttoc&quot;);
+	if (toc.size()) {
+		if (toc.size() &amp;gt; 1) {
+			/* More than one target; happens when using ViewTemplate while
+			 * tiddler already contains a ToC target. In any case, it is best
+			 * to keep the last one and remove others.
+			 */
+			toc.not(toc.last()).remove();
+			toc = toc.last();
+		}
+		/* check the ToC was not already generated */
+		if (toc[0].toc &amp;amp;&amp;amp; toc[0].toc.generated) return;
+		/* check if the minimum number of entries is overridden */
+		if (toc.attr(&quot;min-entries&quot;)) minEntries = parseInt(toc.attr(&quot;min-entries&quot;));
+		/* rebuild target tag */
+		toc = toc.empty().wrapInner(&quot;&amp;lt;div class='tw_ttoc'/&amp;gt;&quot;).children(&quot;div&quot;).unwrap();
+	}
+	else toc = $(&quot;&amp;lt;div class='tw_ttoc'/&amp;gt;&quot;).prependTo(place);
+
+	var hLevelCurrent = 0, hLevel;
+	var tocInner = $(&quot;&amp;lt;div/&amp;gt;&quot;), listCurrent = tocInner[0], listId = &quot;1&quot;;
+	toc.hide().append($(&quot;&amp;lt;div class='tw_ttoc_title'&amp;gt;&amp;lt;a href='javascript:;'&amp;gt;Table of Contents&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;&quot;), tocInner);
+	$(&quot;.tw_ttoc_title a&quot;, toc).click(function() {
+		if (tocInner.is(&quot;:visible&quot;)) tocInner.hide(&quot;fast&quot;);
+		else tocInner.show(&quot;fast&quot;);
+	});
+
+	var headings = $();
+	els.each(function(i, c) {
+		/* check we got a visible heading */
+		var match = hTag.exec(c.tagName);
+		if (!match || !$(c).is(&quot;:visible&quot;)) return;
+		hLevel = parseInt(match[1]);
+
+		/* check the heading level */
+		if (!hLevelCurrent) hLevelCurrent = hLevel;
+		if (hLevel &amp;lt; hLevelCurrent) {
+			/* have to go up */
+			while ((hLevel &amp;lt;= --hLevelCurrent) &amp;amp;&amp;amp; listCurrent.parentNode) {
+				listCurrent = listCurrent.parentNode.parentNode;
+				ids = listId.split(&quot;.&quot;);
+				ids.pop();
+				listId = ids.join(&quot;.&quot;);
+			}
+		}
+		else if (hLevel &amp;gt; hLevelCurrent) {
+			/* have to go down */
+			while (hLevel &amp;gt;= ++hLevelCurrent) {
+				$(listCurrent.lastChild).append(listCurrent = $(&quot;&amp;lt;div class='tw_ttoc_level'/&amp;gt;&quot;)[0]);
+				ids = listId.split(&quot;.&quot;);
+				ids.push(1);
+				listId = ids.join(&quot;.&quot;);
+			}
+		}
+		/* determine this heading index */
+		ids = listId.split(&quot;.&quot;);
+		ids[ids.length-1] = $(listCurrent).children(&quot;div.tw_ttoc_entry&quot;).size() + 1;
+		listId = ids.join(&quot;.&quot;);
+
+		/* clone the heading content to insert it in the ToC */
+		$(cloneNodeWithEvents(c)).wrapInner(&quot;&amp;lt;div class='tw_ttoc_entry'/&amp;gt;&quot;).children(&quot;div&quot;).unwrap().prepend($(&quot;&amp;lt;a class='tw_ttoc_id' href='javascript:;'/&amp;gt;&quot;).html(listId).click({target: c}, function(ev){window.scrollTo(0,findPosY(ev.data.target))})).appendTo(listCurrent);
+
+		headings = headings.add(c);
+
+		hLevelCurrent = hLevel;
+	});
+	toc[0].toc = {generated: true};
+
+	if (headings.size() &amp;gt;= minEntries) {
+		/* display ToC */
+		/* Note: jQuery 'next' does not take into account text nodes */
+		var sibling = toc.show()[0].nextSibling;
+		if (sibling &amp;amp;&amp;amp; (sibling.nodeName != &quot;BR&quot;)) toc.after(&quot;&amp;lt;br/&amp;gt;&quot;);
+
+		/* insert a 'ToC' link in the headings */
+		headings.append($(&quot;&amp;lt;span class='tw_ttoc_top'&amp;gt;&amp;lt;a href='javascript:;' title='Go to Table of Contents'&amp;gt;[ToC]&amp;lt;/a&amp;gt;&amp;lt;/span&amp;gt;&quot;)).find(&quot;.tw_ttoc_top a&quot;).click(function() {window.scrollTo(0,findPosY(toc[0]))});
+	}
+}
+};
+
+})(jQuery);}
+&lt;/pre&gt;&lt;br&gt;</description>
+<category>systemConfig</category>
+<link>https://starkakrats.tiddlyhost.com/#TiddlerToCPlugin</link>
+<pubDate>Mon, 22 Apr 2013 14:21:00 GMT</pubDate>
+
+</item>
+</channel>
+</rss>
